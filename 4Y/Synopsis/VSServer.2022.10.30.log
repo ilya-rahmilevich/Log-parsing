@@ -1,0 +1,896 @@
+﻿2022-10-30 00:01:42,780 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,532 KB | PagedMem: 92,796 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1144 
+2022-10-30 00:03:42,790 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,548 KB | PagedMem: 92,796 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1110 
+2022-10-30 00:05:42,797 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,568 KB | PagedMem: 92,836 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1131 
+2022-10-30 00:07:42,798 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,584 KB | PagedMem: 92,860 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1109 
+2022-10-30 00:09:42,810 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,580 KB | PagedMem: 92,860 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1129 
+2022-10-30 00:11:42,810 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,088 KB | PagedMem: 92,340 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1064 
+2022-10-30 00:13:42,816 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,092 KB | PagedMem: 92,344 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1071 
+2022-10-30 00:15:42,816 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,216 KB | PagedMem: 92,520 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1098 
+2022-10-30 00:17:42,824 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,180 KB | PagedMem: 92,460 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1125 
+2022-10-30 00:19:42,832 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,224 KB | PagedMem: 92,524 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1135 
+2022-10-30 00:21:42,835 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,372 KB | PagedMem: 92,660 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1130 
+2022-10-30 00:23:42,845 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,420 KB | PagedMem: 92,724 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1106 
+2022-10-30 00:25:42,857 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 73,508 KB | PagedMem: 92,796 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1138 
+2022-10-30 00:27:42,862 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,516 KB | PagedMem: 92,788 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1117 
+2022-10-30 00:29:42,864 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 73,584 KB | PagedMem: 92,852 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1137 
+2022-10-30 00:31:42,871 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,624 KB | PagedMem: 92,876 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1120 
+2022-10-30 00:33:42,879 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,672 KB | PagedMem: 92,964 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1101 
+2022-10-30 00:35:42,885 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,676 KB | PagedMem: 92,964 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1131 
+2022-10-30 00:37:42,896 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,656 KB | PagedMem: 92,916 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1155 
+2022-10-30 00:39:42,897 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,104 KB | PagedMem: 92,340 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1073 
+2022-10-30 00:41:42,906 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,104 KB | PagedMem: 92,340 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1093 
+2022-10-30 00:43:42,918 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 73,112 KB | PagedMem: 92,404 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1098 
+2022-10-30 00:45:42,929 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 73,180 KB | PagedMem: 92,468 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1105 
+2022-10-30 00:47:42,938 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,264 KB | PagedMem: 92,656 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1120 
+2022-10-30 00:49:42,957 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,332 KB | PagedMem: 92,720 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1150 
+2022-10-30 00:51:42,970 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,464 KB | PagedMem: 92,848 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1143 
+2022-10-30 00:53:42,980 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,512 KB | PagedMem: 92,912 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1143 
+2022-10-30 00:55:42,994 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,428 KB | PagedMem: 92,720 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1148 
+2022-10-30 00:57:43,002 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,536 KB | PagedMem: 92,756 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1153 
+2022-10-30 00:59:43,011 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,560 KB | PagedMem: 92,860 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1119 
+2022-10-30 01:01:43,022 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,572 KB | PagedMem: 92,908 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1159 
+2022-10-30 01:03:43,032 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,556 KB | PagedMem: 92,808 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1118 
+2022-10-30 01:05:43,042 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,060 KB | PagedMem: 92,296 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1069 
+2022-10-30 01:07:43,053 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,084 KB | PagedMem: 92,336 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1063 
+2022-10-30 01:09:43,063 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,084 KB | PagedMem: 92,336 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1083 
+2022-10-30 01:11:43,075 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,108 KB | PagedMem: 92,400 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1098 
+2022-10-30 01:13:43,083 [30] INFO  - MONITOR  ResourceStatus: | CPU: 45% | WrkSetMem: 73,256 KB | PagedMem: 92,536 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1110 
+2022-10-30 01:15:43,092 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,244 KB | PagedMem: 92,528 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1145 
+2022-10-30 01:17:43,103 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,144 KB | PagedMem: 92,392 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1076 
+2022-10-30 01:19:43,122 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,172 KB | PagedMem: 92,432 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1122 
+2022-10-30 01:21:43,124 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,276 KB | PagedMem: 92,572 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1132 
+2022-10-30 01:23:43,137 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,380 KB | PagedMem: 92,660 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1088 
+2022-10-30 01:25:43,147 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,400 KB | PagedMem: 92,700 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1114 
+2022-10-30 01:27:43,162 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,460 KB | PagedMem: 92,764 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1088 
+2022-10-30 01:29:43,173 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,448 KB | PagedMem: 92,764 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1128 
+2022-10-30 01:31:43,183 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,460 KB | PagedMem: 92,760 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1078 
+2022-10-30 01:33:43,194 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,468 KB | PagedMem: 92,808 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1113 
+2022-10-30 01:35:43,206 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,456 KB | PagedMem: 92,760 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1145 
+2022-10-30 01:37:43,216 [30] INFO  - MONITOR  ResourceStatus: | CPU: 41% | WrkSetMem: 73,496 KB | PagedMem: 92,828 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1099 
+2022-10-30 01:39:43,227 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,544 KB | PagedMem: 92,888 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1100 
+2022-10-30 01:41:43,238 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,556 KB | PagedMem: 92,892 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1129 
+2022-10-30 01:43:43,252 [30] INFO  - MONITOR  ResourceStatus: | CPU: 53% | WrkSetMem: 73,076 KB | PagedMem: 92,344 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1074 
+2022-10-30 01:45:43,265 [30] INFO  - MONITOR  ResourceStatus: | CPU: 33% | WrkSetMem: 73,076 KB | PagedMem: 92,344 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1094 
+2022-10-30 01:47:43,269 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,088 KB | PagedMem: 92,344 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1089 
+2022-10-30 01:49:43,281 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,168 KB | PagedMem: 92,484 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1096 
+2022-10-30 01:51:43,284 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,312 KB | PagedMem: 92,656 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1114 
+2022-10-30 01:53:43,293 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,296 KB | PagedMem: 92,608 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1139 
+2022-10-30 01:55:43,310 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,328 KB | PagedMem: 92,604 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1141 
+2022-10-30 01:57:43,314 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,356 KB | PagedMem: 92,640 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1144 
+2022-10-30 01:59:43,331 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,440 KB | PagedMem: 92,724 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1110 
+2022-10-30 01:01:43,341 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,424 KB | PagedMem: 92,684 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1139 
+2022-10-30 01:03:43,354 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,444 KB | PagedMem: 92,724 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1100 
+2022-10-30 01:05:43,373 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,476 KB | PagedMem: 92,788 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1132 
+2022-10-30 01:07:43,386 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,484 KB | PagedMem: 92,788 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1095 
+2022-10-30 01:09:43,391 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,516 KB | PagedMem: 92,880 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1130 
+2022-10-30 01:11:43,395 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,104 KB | PagedMem: 92,388 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1092 
+2022-10-30 01:13:43,404 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,100 KB | PagedMem: 92,448 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1090 
+2022-10-30 01:15:43,419 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,088 KB | PagedMem: 92,400 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1125 
+2022-10-30 01:17:43,436 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,116 KB | PagedMem: 92,400 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1116 
+2022-10-30 01:19:43,455 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,148 KB | PagedMem: 92,464 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1116 
+2022-10-30 01:21:43,473 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,300 KB | PagedMem: 92,540 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1129 
+2022-10-30 01:23:43,479 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,340 KB | PagedMem: 92,644 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1140 
+2022-10-30 01:25:43,486 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,460 KB | PagedMem: 92,704 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1125 
+2022-10-30 01:27:43,495 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,496 KB | PagedMem: 92,820 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1100 
+2022-10-30 01:29:43,499 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,472 KB | PagedMem: 92,772 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1125 
+2022-10-30 01:31:43,504 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 73,484 KB | PagedMem: 92,772 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1150 
+2022-10-30 01:33:43,521 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,488 KB | PagedMem: 92,772 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1125 
+2022-10-30 01:35:43,536 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,528 KB | PagedMem: 92,784 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1151 
+2022-10-30 01:37:43,551 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,116 KB | PagedMem: 92,348 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1068 
+2022-10-30 01:39:43,556 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,052 KB | PagedMem: 92,220 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1100 
+2022-10-30 01:41:43,567 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,036 KB | PagedMem: 92,180 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1098 
+2022-10-30 01:43:43,576 [30] INFO  - MONITOR  ResourceStatus: | CPU: 79% | WrkSetMem: 73,092 KB | PagedMem: 92,380 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1105 
+2022-10-30 01:45:43,583 [30] INFO  - MONITOR  ResourceStatus: | CPU: 41% | WrkSetMem: 73,068 KB | PagedMem: 92,288 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1135 
+2022-10-30 01:47:43,596 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,268 KB | PagedMem: 92,492 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1132 
+2022-10-30 01:49:43,620 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,296 KB | PagedMem: 92,500 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1136 
+2022-10-30 01:51:43,626 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,396 KB | PagedMem: 92,580 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1139 
+2022-10-30 01:53:43,630 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,476 KB | PagedMem: 92,704 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1141 
+2022-10-30 01:55:43,637 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 73,552 KB | PagedMem: 92,784 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1151 
+2022-10-30 01:57:43,651 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,580 KB | PagedMem: 92,760 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1109 
+2022-10-30 01:59:43,663 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,608 KB | PagedMem: 92,848 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1140 
+2022-10-30 02:01:43,675 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,608 KB | PagedMem: 92,848 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 02:03:43,689 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,592 KB | PagedMem: 92,848 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1165 
+2022-10-30 02:05:43,700 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,576 KB | PagedMem: 92,800 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1125 
+2022-10-30 02:07:43,713 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,084 KB | PagedMem: 92,344 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1150 
+2022-10-30 02:09:43,726 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,060 KB | PagedMem: 92,296 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1091 
+2022-10-30 02:11:43,743 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,060 KB | PagedMem: 92,296 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1125 
+2022-10-30 02:13:43,758 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,060 KB | PagedMem: 92,296 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1140 
+2022-10-30 02:15:43,772 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,156 KB | PagedMem: 92,376 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1135 
+2022-10-30 02:17:43,786 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,180 KB | PagedMem: 92,440 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1125 
+2022-10-30 02:19:43,813 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,304 KB | PagedMem: 92,568 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1135 
+2022-10-30 02:21:43,831 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,332 KB | PagedMem: 92,568 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1145 
+2022-10-30 02:23:43,846 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,324 KB | PagedMem: 92,576 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1174 
+2022-10-30 02:25:43,861 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,380 KB | PagedMem: 92,632 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1166 
+2022-10-30 02:27:43,875 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,436 KB | PagedMem: 92,696 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1151 
+2022-10-30 02:29:43,887 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,508 KB | PagedMem: 92,840 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1128 
+2022-10-30 02:31:43,906 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,596 KB | PagedMem: 92,916 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1151 
+2022-10-30 02:33:43,924 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,036 KB | PagedMem: 92,320 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1085 
+2022-10-30 02:35:43,939 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,020 KB | PagedMem: 92,280 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1119 
+2022-10-30 02:37:43,955 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,028 KB | PagedMem: 92,320 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1122 
+2022-10-30 02:39:43,969 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,104 KB | PagedMem: 92,432 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1122 
+2022-10-30 02:41:43,982 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,236 KB | PagedMem: 92,512 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1135 
+2022-10-30 02:43:43,997 [30] INFO  - MONITOR  ResourceStatus: | CPU: 42% | WrkSetMem: 73,240 KB | PagedMem: 92,512 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1166 
+2022-10-30 02:45:44,014 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,260 KB | PagedMem: 92,576 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1156 
+2022-10-30 02:47:44,029 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,408 KB | PagedMem: 92,664 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1139 
+2022-10-30 02:49:44,053 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,428 KB | PagedMem: 92,768 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1122 
+2022-10-30 02:51:44,073 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,472 KB | PagedMem: 92,820 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1153 
+2022-10-30 02:53:44,084 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,496 KB | PagedMem: 92,820 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1123 
+2022-10-30 02:55:44,101 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 73,476 KB | PagedMem: 92,780 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1148 
+2022-10-30 02:57:44,105 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,508 KB | PagedMem: 92,820 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1123 
+2022-10-30 02:59:44,123 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,028 KB | PagedMem: 92,308 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1158 
+2022-10-30 03:01:44,130 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,016 KB | PagedMem: 92,272 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1086 
+2022-10-30 03:03:44,140 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,028 KB | PagedMem: 92,308 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1116 
+2022-10-30 03:05:44,155 [30] INFO  - MONITOR  ResourceStatus: | CPU: 5% | WrkSetMem: 73,036 KB | PagedMem: 92,316 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1148 
+2022-10-30 03:07:44,167 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 73,140 KB | PagedMem: 92,432 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1148 
+2022-10-30 03:09:44,180 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 73,068 KB | PagedMem: 92,344 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1103 
+2022-10-30 03:11:44,195 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,068 KB | PagedMem: 92,344 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1133 
+2022-10-30 03:13:44,210 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,056 KB | PagedMem: 92,368 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1117 
+2022-10-30 03:15:44,222 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,052 KB | PagedMem: 92,300 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1127 
+2022-10-30 03:17:44,229 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,068 KB | PagedMem: 92,340 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1116 
+2022-10-30 03:19:44,256 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,136 KB | PagedMem: 92,428 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1116 
+2022-10-30 03:21:44,267 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,220 KB | PagedMem: 92,492 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1132 
+2022-10-30 03:23:44,287 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,232 KB | PagedMem: 92,532 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1169 
+2022-10-30 03:25:44,293 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,248 KB | PagedMem: 92,552 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1164 
+2022-10-30 03:27:44,309 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,440 KB | PagedMem: 92,696 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1152 
+2022-10-30 03:29:44,321 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,448 KB | PagedMem: 92,700 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1127 
+2022-10-30 03:31:44,328 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,448 KB | PagedMem: 92,700 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1147 
+2022-10-30 03:33:44,343 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,476 KB | PagedMem: 92,748 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1119 
+2022-10-30 03:35:44,362 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,448 KB | PagedMem: 92,700 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1142 
+2022-10-30 03:37:44,370 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,448 KB | PagedMem: 92,700 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1102 
+2022-10-30 03:39:44,381 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,432 KB | PagedMem: 92,660 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1122 
+2022-10-30 03:41:44,393 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,432 KB | PagedMem: 92,660 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1152 
+2022-10-30 03:43:44,409 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,068 KB | PagedMem: 92,404 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1109 
+2022-10-30 03:45:44,419 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 73,028 KB | PagedMem: 92,308 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1109 
+2022-10-30 03:47:44,432 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,064 KB | PagedMem: 92,372 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1139 
+2022-10-30 03:49:44,456 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,096 KB | PagedMem: 92,372 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1139 
+2022-10-30 03:51:44,471 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,332 KB | PagedMem: 92,628 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1144 
+2022-10-30 03:53:44,476 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,340 KB | PagedMem: 92,692 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1148 
+2022-10-30 03:55:44,493 [30] INFO  - MONITOR  ResourceStatus: | CPU: 37% | WrkSetMem: 73,484 KB | PagedMem: 92,820 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1138 
+2022-10-30 03:57:44,510 [30] INFO  - MONITOR  ResourceStatus: | CPU: 45% | WrkSetMem: 73,500 KB | PagedMem: 92,780 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1107 
+2022-10-30 03:59:44,524 [30] INFO  - MONITOR  ResourceStatus: | CPU: 27% | WrkSetMem: 73,512 KB | PagedMem: 92,808 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1138 
+2022-10-30 04:01:44,540 [30] INFO  - MONITOR  ResourceStatus: | CPU: 37% | WrkSetMem: 73,500 KB | PagedMem: 92,808 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1163 
+2022-10-30 04:03:44,554 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,516 KB | PagedMem: 92,884 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1165 
+2022-10-30 04:05:44,570 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,524 KB | PagedMem: 92,840 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1139 
+2022-10-30 04:07:44,585 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,604 KB | PagedMem: 92,944 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1169 
+2022-10-30 04:09:44,600 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,000 KB | PagedMem: 92,304 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1103 
+2022-10-30 04:11:44,614 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,004 KB | PagedMem: 92,304 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1133 
+2022-10-30 04:13:44,628 [30] INFO  - MONITOR  ResourceStatus: | CPU: 27% | WrkSetMem: 73,004 KB | PagedMem: 92,304 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1127 
+2022-10-30 04:15:44,642 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,108 KB | PagedMem: 92,432 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1137 
+2022-10-30 04:17:44,658 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,140 KB | PagedMem: 92,496 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1143 
+2022-10-30 04:19:44,685 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 73,316 KB | PagedMem: 92,628 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1163 
+2022-10-30 04:21:44,701 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,296 KB | PagedMem: 92,628 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1188 
+2022-10-30 04:23:44,715 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,344 KB | PagedMem: 92,692 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1193 
+2022-10-30 04:25:44,729 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,336 KB | PagedMem: 92,692 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1199 
+2022-10-30 04:27:44,743 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,524 KB | PagedMem: 92,820 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1193 
+2022-10-30 04:29:44,757 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,528 KB | PagedMem: 92,884 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1153 
+2022-10-30 04:31:44,772 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,540 KB | PagedMem: 92,892 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1175 
+2022-10-30 04:33:44,789 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,624 KB | PagedMem: 92,956 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1148 
+2022-10-30 04:35:44,803 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,060 KB | PagedMem: 92,360 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1170 
+2022-10-30 04:37:44,817 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,060 KB | PagedMem: 92,320 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1087 
+2022-10-30 04:39:44,832 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,068 KB | PagedMem: 92,320 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1107 
+2022-10-30 04:41:44,845 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,060 KB | PagedMem: 92,320 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1127 
+2022-10-30 04:43:44,861 [30] INFO  - MONITOR  ResourceStatus: | CPU: 44% | WrkSetMem: 73,076 KB | PagedMem: 92,360 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1145 
+2022-10-30 04:45:44,875 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,080 KB | PagedMem: 92,360 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1155 
+2022-10-30 04:47:44,891 [30] INFO  - MONITOR  ResourceStatus: | CPU: 37% | WrkSetMem: 73,252 KB | PagedMem: 92,552 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1150 
+2022-10-30 04:49:44,915 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,272 KB | PagedMem: 92,576 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1144 
+2022-10-30 04:51:44,924 [30] INFO  - MONITOR  ResourceStatus: | CPU: 27% | WrkSetMem: 73,492 KB | PagedMem: 92,808 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1160 
+2022-10-30 04:53:44,933 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,508 KB | PagedMem: 92,808 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1119 
+2022-10-30 04:55:44,942 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,516 KB | PagedMem: 92,808 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1145 
+2022-10-30 04:57:44,962 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,532 KB | PagedMem: 92,872 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1113 
+2022-10-30 04:59:44,975 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,532 KB | PagedMem: 92,872 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1136 
+2022-10-30 05:01:44,983 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,552 KB | PagedMem: 92,872 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1170 
+2022-10-30 05:03:44,994 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,068 KB | PagedMem: 92,316 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1111 
+2022-10-30 05:05:45,005 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,068 KB | PagedMem: 92,316 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1106 
+2022-10-30 05:07:45,019 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,092 KB | PagedMem: 92,356 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1137 
+2022-10-30 05:09:45,028 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,128 KB | PagedMem: 92,420 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1142 
+2022-10-30 05:11:45,047 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,128 KB | PagedMem: 92,380 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1141 
+2022-10-30 05:13:45,054 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,088 KB | PagedMem: 92,356 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1094 
+2022-10-30 05:15:45,071 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,072 KB | PagedMem: 92,316 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1133 
+2022-10-30 05:17:45,083 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,104 KB | PagedMem: 92,420 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1117 
+2022-10-30 05:19:45,106 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,096 KB | PagedMem: 92,420 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1137 
+2022-10-30 05:21:45,123 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,076 KB | PagedMem: 92,368 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1139 
+2022-10-30 05:23:45,130 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,040 KB | PagedMem: 92,280 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1133 
+2022-10-30 05:25:45,149 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,116 KB | PagedMem: 92,384 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1144 
+2022-10-30 05:27:45,159 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,224 KB | PagedMem: 92,416 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1079 
+2022-10-30 05:29:45,168 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,236 KB | PagedMem: 92,360 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1109 
+2022-10-30 05:31:45,185 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,376 KB | PagedMem: 92,552 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 05:33:45,192 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,388 KB | PagedMem: 92,556 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1074 
+2022-10-30 05:35:45,212 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,412 KB | PagedMem: 92,588 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1105 
+2022-10-30 05:37:45,231 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,388 KB | PagedMem: 92,540 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1131 
+2022-10-30 05:39:45,245 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,476 KB | PagedMem: 92,604 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1112 
+2022-10-30 05:41:45,253 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,520 KB | PagedMem: 92,672 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1138 
+2022-10-30 05:43:45,266 [30] INFO  - MONITOR  ResourceStatus: | CPU: 27% | WrkSetMem: 73,588 KB | PagedMem: 92,864 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1133 
+2022-10-30 05:45:45,280 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,588 KB | PagedMem: 92,864 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1153 
+2022-10-30 05:47:45,293 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,588 KB | PagedMem: 92,824 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1130 
+2022-10-30 05:49:45,322 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,604 KB | PagedMem: 92,928 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1108 
+2022-10-30 05:51:45,339 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,616 KB | PagedMem: 92,928 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1129 
+2022-10-30 05:53:45,353 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,048 KB | PagedMem: 92,256 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1065 
+2022-10-30 05:55:45,366 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,064 KB | PagedMem: 92,304 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1106 
+2022-10-30 05:57:45,381 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,036 KB | PagedMem: 92,248 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 05:59:45,397 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,032 KB | PagedMem: 92,248 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 06:01:45,411 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,092 KB | PagedMem: 92,312 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1145 
+2022-10-30 06:03:45,428 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,124 KB | PagedMem: 92,388 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1146 
+2022-10-30 06:05:45,444 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,072 KB | PagedMem: 92,288 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1080 
+2022-10-30 06:07:45,456 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,076 KB | PagedMem: 92,352 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1098 
+2022-10-30 06:09:45,470 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,076 KB | PagedMem: 92,352 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1098 
+2022-10-30 06:11:45,484 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,180 KB | PagedMem: 92,416 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1103 
+2022-10-30 06:13:45,498 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,200 KB | PagedMem: 92,440 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1103 
+2022-10-30 06:15:45,514 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,368 KB | PagedMem: 92,608 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 06:17:45,527 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 73,384 KB | PagedMem: 92,672 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1149 
+2022-10-30 06:19:45,553 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,388 KB | PagedMem: 92,672 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1119 
+2022-10-30 06:21:45,560 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,368 KB | PagedMem: 92,632 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1154 
+2022-10-30 06:23:45,574 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,388 KB | PagedMem: 92,672 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1110 
+2022-10-30 06:25:45,591 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 73,384 KB | PagedMem: 92,680 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1152 
+2022-10-30 06:27:45,606 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,456 KB | PagedMem: 92,704 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1149 
+2022-10-30 06:29:45,621 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,516 KB | PagedMem: 92,752 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1107 
+2022-10-30 06:31:45,637 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,076 KB | PagedMem: 92,300 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1069 
+2022-10-30 06:33:45,651 [30] INFO  - MONITOR  ResourceStatus: | CPU: 31% | WrkSetMem: 73,064 KB | PagedMem: 92,300 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1063 
+2022-10-30 06:35:45,665 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 73,048 KB | PagedMem: 92,260 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1087 
+2022-10-30 06:37:45,680 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,056 KB | PagedMem: 92,300 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1117 
+2022-10-30 06:39:45,695 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,044 KB | PagedMem: 92,300 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1124 
+2022-10-30 06:41:45,711 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 73,148 KB | PagedMem: 92,392 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1133 
+2022-10-30 06:43:45,731 [30] INFO  - MONITOR  ResourceStatus: | CPU: 52% | WrkSetMem: 73,300 KB | PagedMem: 92,560 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1139 
+2022-10-30 06:45:45,750 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,404 KB | PagedMem: 92,640 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1134 
+2022-10-30 06:47:45,759 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,520 KB | PagedMem: 92,768 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1139 
+2022-10-30 06:49:45,785 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,556 KB | PagedMem: 92,856 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1110 
+2022-10-30 06:51:45,795 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,540 KB | PagedMem: 92,808 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1130 
+2022-10-30 06:53:45,809 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,548 KB | PagedMem: 92,776 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1104 
+2022-10-30 06:55:45,827 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,580 KB | PagedMem: 92,880 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1136 
+2022-10-30 06:57:45,838 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,576 KB | PagedMem: 92,880 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1154 
+2022-10-30 06:59:45,850 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,028 KB | PagedMem: 92,264 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1082 
+2022-10-30 07:01:45,862 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 73,020 KB | PagedMem: 92,264 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1108 
+2022-10-30 07:03:45,878 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,020 KB | PagedMem: 92,232 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1109 
+2022-10-30 07:05:45,895 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,088 KB | PagedMem: 92,296 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1115 
+2022-10-30 07:07:45,907 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,216 KB | PagedMem: 92,456 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1124 
+2022-10-30 07:09:45,921 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,260 KB | PagedMem: 92,520 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1129 
+2022-10-30 07:11:45,941 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,368 KB | PagedMem: 92,648 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1124 
+2022-10-30 07:13:45,950 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,376 KB | PagedMem: 92,648 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1090 
+2022-10-30 07:15:45,967 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,376 KB | PagedMem: 92,648 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1115 
+2022-10-30 07:17:45,984 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,392 KB | PagedMem: 92,648 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1140 
+2022-10-30 07:19:46,001 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,408 KB | PagedMem: 92,652 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1116 
+2022-10-30 07:21:46,015 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 73,416 KB | PagedMem: 92,648 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1146 
+2022-10-30 07:23:46,035 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,472 KB | PagedMem: 92,712 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1105 
+2022-10-30 07:25:46,043 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,020 KB | PagedMem: 92,224 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1079 
+2022-10-30 07:27:46,052 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,036 KB | PagedMem: 92,264 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1105 
+2022-10-30 07:29:46,063 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,044 KB | PagedMem: 92,264 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1100 
+2022-10-30 07:31:46,082 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,112 KB | PagedMem: 92,376 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1112 
+2022-10-30 07:33:46,095 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,196 KB | PagedMem: 92,360 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1116 
+2022-10-30 07:35:46,104 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,192 KB | PagedMem: 92,360 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1137 
+2022-10-30 07:37:46,114 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,228 KB | PagedMem: 92,424 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1126 
+2022-10-30 07:39:46,134 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,292 KB | PagedMem: 92,488 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1121 
+2022-10-30 07:41:46,150 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,300 KB | PagedMem: 92,488 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1147 
+2022-10-30 07:43:46,170 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,292 KB | PagedMem: 92,448 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1102 
+2022-10-30 07:45:46,189 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,436 KB | PagedMem: 92,744 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1138 
+2022-10-30 07:47:46,197 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,560 KB | PagedMem: 92,920 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1146 
+2022-10-30 07:49:46,225 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,552 KB | PagedMem: 92,872 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1106 
+2022-10-30 07:51:46,243 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,060 KB | PagedMem: 92,360 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1074 
+2022-10-30 07:53:46,259 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,068 KB | PagedMem: 92,360 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1106 
+2022-10-30 07:55:46,274 [30] INFO  - MONITOR  ResourceStatus: | CPU: 32% | WrkSetMem: 73,080 KB | PagedMem: 92,360 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1101 
+2022-10-30 07:57:46,287 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 73,076 KB | PagedMem: 92,384 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1123 
+2022-10-30 07:59:46,301 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 73,136 KB | PagedMem: 92,488 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1124 
+2022-10-30 08:01:46,316 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,064 KB | PagedMem: 92,372 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1136 
+2022-10-30 08:03:46,329 [30] INFO  - MONITOR  ResourceStatus: | CPU: 37% | WrkSetMem: 73,028 KB | PagedMem: 92,244 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1080 
+2022-10-30 08:05:46,335 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,120 KB | PagedMem: 92,412 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1116 
+2022-10-30 08:07:46,342 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,164 KB | PagedMem: 92,412 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1119 
+2022-10-30 08:09:46,351 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,176 KB | PagedMem: 92,428 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1120 
+2022-10-30 08:11:46,357 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 73,064 KB | PagedMem: 92,280 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1064 
+2022-10-30 08:13:46,364 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,084 KB | PagedMem: 92,320 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1084 
+2022-10-30 08:15:46,368 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,068 KB | PagedMem: 92,320 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1084 
+2022-10-30 08:17:46,375 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,084 KB | PagedMem: 92,336 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1107 
+2022-10-30 08:19:46,391 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,128 KB | PagedMem: 92,440 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1125 
+2022-10-30 08:21:46,402 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,064 KB | PagedMem: 92,308 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1079 
+2022-10-30 08:23:46,409 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,076 KB | PagedMem: 92,312 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1107 
+2022-10-30 08:25:46,417 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,164 KB | PagedMem: 92,440 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1102 
+2022-10-30 08:27:46,424 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,184 KB | PagedMem: 92,440 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1102 
+2022-10-30 08:29:46,433 [30] INFO  - MONITOR  ResourceStatus: | CPU: 37% | WrkSetMem: 73,200 KB | PagedMem: 92,504 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1102 
+2022-10-30 08:31:46,441 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,348 KB | PagedMem: 92,632 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1124 
+2022-10-30 08:33:46,448 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 73,392 KB | PagedMem: 92,680 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1167 
+2022-10-30 08:35:46,457 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,420 KB | PagedMem: 92,644 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1119 
+2022-10-30 08:37:46,465 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,444 KB | PagedMem: 92,748 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1144 
+2022-10-30 08:39:46,475 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,488 KB | PagedMem: 92,748 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1114 
+2022-10-30 08:41:46,481 [30] INFO  - MONITOR  ResourceStatus: | CPU: 36% | WrkSetMem: 73,496 KB | PagedMem: 92,748 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1139 
+2022-10-30 08:43:46,490 [30] INFO  - MONITOR  ResourceStatus: | CPU: 52% | WrkSetMem: 73,464 KB | PagedMem: 92,708 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1102 
+2022-10-30 08:45:46,497 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 73,488 KB | PagedMem: 92,748 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1136 
+2022-10-30 08:47:46,507 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,144 KB | PagedMem: 92,344 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1120 
+2022-10-30 08:49:46,527 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,132 KB | PagedMem: 92,344 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1065 
+2022-10-30 08:51:46,529 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,132 KB | PagedMem: 92,344 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1095 
+2022-10-30 08:53:46,537 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,132 KB | PagedMem: 92,344 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1090 
+2022-10-30 08:55:46,537 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,136 KB | PagedMem: 92,344 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1111 
+2022-10-30 08:57:46,541 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,308 KB | PagedMem: 92,536 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1124 
+2022-10-30 08:59:46,550 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,388 KB | PagedMem: 92,608 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1106 
+2022-10-30 09:01:46,557 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,452 KB | PagedMem: 92,696 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1131 
+2022-10-30 09:03:46,561 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,560 KB | PagedMem: 92,800 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1100 
+2022-10-30 09:05:46,574 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,552 KB | PagedMem: 92,800 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1122 
+2022-10-30 09:07:46,585 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,588 KB | PagedMem: 92,800 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1125 
+2022-10-30 09:09:46,587 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,580 KB | PagedMem: 92,764 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1089 
+2022-10-30 09:11:46,598 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,584 KB | PagedMem: 92,804 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1117 
+2022-10-30 09:13:46,603 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,584 KB | PagedMem: 92,804 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1145 
+2022-10-30 09:15:46,605 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,600 KB | PagedMem: 92,828 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1116 
+2022-10-30 09:17:46,619 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,096 KB | PagedMem: 92,308 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1115 
+2022-10-30 09:19:46,642 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 73,096 KB | PagedMem: 92,308 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1086 
+2022-10-30 09:21:46,649 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,088 KB | PagedMem: 92,268 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1110 
+2022-10-30 09:23:46,662 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 73,108 KB | PagedMem: 92,308 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1125 
+2022-10-30 09:25:46,675 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,204 KB | PagedMem: 92,436 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 09:27:46,681 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,228 KB | PagedMem: 92,500 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 09:29:46,689 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,256 KB | PagedMem: 92,500 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1141 
+2022-10-30 09:31:46,700 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,196 KB | PagedMem: 92,552 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1176 
+2022-10-30 09:33:46,703 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,296 KB | PagedMem: 92,640 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1189 
+2022-10-30 09:35:46,706 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,228 KB | PagedMem: 92,680 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1145 
+2022-10-30 09:37:46,709 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 73,600 KB | PagedMem: 92,680 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1175 
+2022-10-30 09:39:46,719 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,552 KB | PagedMem: 92,544 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1129 
+2022-10-30 09:41:46,730 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,556 KB | PagedMem: 92,544 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1154 
+2022-10-30 09:43:46,735 [30] INFO  - MONITOR  ResourceStatus: | CPU: 34% | WrkSetMem: 73,188 KB | PagedMem: 92,164 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1070 
+2022-10-30 09:45:46,737 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,184 KB | PagedMem: 92,164 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1100 
+2022-10-30 09:47:46,749 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 73,200 KB | PagedMem: 92,172 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1089 
+2022-10-30 09:49:46,779 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,344 KB | PagedMem: 92,476 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1135 
+2022-10-30 09:51:46,792 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 71,512 KB | PagedMem: 92,428 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1151 
+2022-10-30 09:53:46,801 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 71,588 KB | PagedMem: 92,452 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1150 
+2022-10-30 09:55:46,817 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 70,668 KB | PagedMem: 92,364 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1096 
+2022-10-30 09:57:46,827 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 70,672 KB | PagedMem: 92,364 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1130 
+2022-10-30 09:59:46,832 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 70,684 KB | PagedMem: 92,364 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1130 
+2022-10-30 10:01:46,837 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 70,668 KB | PagedMem: 92,364 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1136 
+2022-10-30 10:03:46,850 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 70,668 KB | PagedMem: 92,268 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1072 
+2022-10-30 10:05:46,864 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 70,692 KB | PagedMem: 92,332 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1097 
+2022-10-30 10:07:46,877 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 70,832 KB | PagedMem: 92,396 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1100 
+2022-10-30 10:09:46,881 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 70,844 KB | PagedMem: 92,396 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1127 
+2022-10-30 10:11:46,898 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 60,820 KB | PagedMem: 92,588 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1127 
+2022-10-30 10:13:46,905 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,996 KB | PagedMem: 92,728 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1127 
+2022-10-30 10:15:46,916 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 60,776 KB | PagedMem: 92,728 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1102 
+2022-10-30 10:17:46,931 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,824 KB | PagedMem: 92,792 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1130 
+2022-10-30 10:19:46,956 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 60,860 KB | PagedMem: 92,856 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1090 
+2022-10-30 10:21:46,972 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 60,832 KB | PagedMem: 92,856 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1115 
+2022-10-30 10:23:46,983 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 60,856 KB | PagedMem: 92,856 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1087 
+2022-10-30 10:25:46,999 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 60,864 KB | PagedMem: 92,856 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1107 
+2022-10-30 10:27:47,017 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 60,352 KB | PagedMem: 92,280 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1065 
+2022-10-30 10:29:47,020 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,356 KB | PagedMem: 92,280 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1085 
+2022-10-30 10:31:47,030 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,308 KB | PagedMem: 92,280 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1110 
+2022-10-30 10:33:47,038 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,320 KB | PagedMem: 92,280 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1122 
+2022-10-30 10:35:47,051 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 60,288 KB | PagedMem: 92,280 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1132 
+2022-10-30 10:37:47,056 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,404 KB | PagedMem: 92,316 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1146 
+2022-10-30 10:39:47,060 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,412 KB | PagedMem: 92,316 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1116 
+2022-10-30 10:41:47,075 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 60,544 KB | PagedMem: 92,508 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1111 
+2022-10-30 10:43:47,094 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 60,608 KB | PagedMem: 92,516 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1115 
+2022-10-30 10:45:47,105 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 60,660 KB | PagedMem: 92,608 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1104 
+2022-10-30 10:47:47,122 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 60,660 KB | PagedMem: 92,600 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1137 
+2022-10-30 10:49:47,149 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 60,720 KB | PagedMem: 92,640 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1110 
+2022-10-30 10:51:47,160 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 60,728 KB | PagedMem: 92,640 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1141 
+2022-10-30 10:53:47,173 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 60,744 KB | PagedMem: 92,648 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1150 
+2022-10-30 10:55:47,192 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,856 KB | PagedMem: 92,768 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1101 
+2022-10-30 10:57:47,205 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 60,824 KB | PagedMem: 92,768 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1136 
+2022-10-30 10:59:47,219 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 60,824 KB | PagedMem: 92,768 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1096 
+2022-10-30 11:01:47,230 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 60,712 KB | PagedMem: 92,768 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1133 
+2022-10-30 11:03:47,244 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,260 KB | PagedMem: 92,280 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1067 
+2022-10-30 11:05:47,251 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,296 KB | PagedMem: 92,280 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1066 
+2022-10-30 11:07:47,264 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,248 KB | PagedMem: 92,280 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1094 
+2022-10-30 11:09:47,271 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,344 KB | PagedMem: 92,408 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1119 
+2022-10-30 11:11:47,277 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,512 KB | PagedMem: 92,584 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1128 
+2022-10-30 11:13:47,293 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,636 KB | PagedMem: 92,656 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1129 
+2022-10-30 11:15:47,310 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 60,652 KB | PagedMem: 92,656 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1109 
+2022-10-30 11:17:47,328 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 60,372 KB | PagedMem: 92,644 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1140 
+2022-10-30 11:19:47,352 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 60,412 KB | PagedMem: 92,604 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1106 
+2022-10-30 11:21:47,365 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 60,388 KB | PagedMem: 92,576 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1121 
+2022-10-30 11:23:47,374 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 60,744 KB | PagedMem: 92,664 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1096 
+2022-10-30 11:25:47,394 [30] INFO  - MONITOR  ResourceStatus: | CPU: 50% | WrkSetMem: 60,704 KB | PagedMem: 92,616 KB | NonPagedMem: 81 KB | ThrdCnt: 51 | HndlCnt: 1128 
+2022-10-30 11:27:47,409 [30] INFO  - MONITOR  ResourceStatus: | CPU: 39% | WrkSetMem: 60,644 KB | PagedMem: 92,624 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1151 
+2022-10-30 11:29:47,427 [30] INFO  - MONITOR  ResourceStatus: | CPU: 41% | WrkSetMem: 60,796 KB | PagedMem: 92,932 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1132 
+2022-10-30 11:31:47,441 [30] INFO  - MONITOR  ResourceStatus: | CPU: 35% | WrkSetMem: 60,264 KB | PagedMem: 92,356 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1100 
+2022-10-30 11:33:47,453 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 60,256 KB | PagedMem: 92,316 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1135 
+2022-10-30 11:35:47,467 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 60,296 KB | PagedMem: 92,408 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1121 
+2022-10-30 11:37:47,481 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 60,380 KB | PagedMem: 92,488 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1126 
+2022-10-30 11:39:47,487 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 60,436 KB | PagedMem: 92,552 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1120 
+2022-10-30 11:41:47,503 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 60,568 KB | PagedMem: 92,680 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1130 
+2022-10-30 11:43:47,520 [30] INFO  - MONITOR  ResourceStatus: | CPU: 32% | WrkSetMem: 60,592 KB | PagedMem: 92,668 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1127 
+2022-10-30 11:45:47,535 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 60,596 KB | PagedMem: 92,668 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1152 
+2022-10-30 11:47:47,546 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 60,824 KB | PagedMem: 92,860 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1163 
+2022-10-30 11:49:47,575 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 60,828 KB | PagedMem: 92,820 KB | NonPagedMem: 78 KB | ThrdCnt: 54 | HndlCnt: 1120 
+2022-10-30 11:51:47,581 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 60,828 KB | PagedMem: 92,868 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1153 
+2022-10-30 11:53:47,592 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 60,828 KB | PagedMem: 92,840 KB | NonPagedMem: 78 KB | ThrdCnt: 53 | HndlCnt: 1161 
+2022-10-30 11:55:47,602 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 60,900 KB | PagedMem: 92,848 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1113 
+2022-10-30 11:57:47,618 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 60,428 KB | PagedMem: 92,320 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1075 
+2022-10-30 11:58:50,640 [46] INFO  - GLOBAL   Initializing cameras
+2022-10-30 11:58:50,641 [47] INFO  - GLOBAL   Initializing cameras
+2022-10-30 11:58:50,645 [46] INFO  - GLOBAL   Getting cameras...)
+2022-10-30 11:58:50,647 [47] INFO  - GLOBAL   Getting cameras...)
+2022-10-30 11:58:51,602 [47] INFO  - GLOBAL   No concurrent cameras limit set
+2022-10-30 11:58:51,602 [46] INFO  - GLOBAL   No concurrent cameras limit set
+2022-10-30 11:58:51,768 [47] INFO  - GLOBAL   Got cameras, result: 10 enabled, 0 disabled
+2022-10-30 11:58:51,768 [46] INFO  - GLOBAL   Got cameras, result: 10 enabled, 0 disabled
+2022-10-30 11:58:51,777 [47] INFO  - GLOBAL   10 cameras loaded from DB.
+2022-10-30 11:58:51,777 [46] INFO  - GLOBAL   10 cameras loaded from DB.
+2022-10-30 11:58:51,778 [46] INFO  - GLOBAL   (InternalID: 48, DisplayName: _agents_small, ExternalID: D:\MovieRepository\_agents_small.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/30/2022 11:58:50 AM)
+2022-10-30 11:58:51,778 [47] INFO  - GLOBAL   (InternalID: 48, DisplayName: _agents_small, ExternalID: D:\MovieRepository\_agents_small.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/30/2022 11:58:50 AM)
+2022-10-30 11:58:51,779 [47] INFO  - GLOBAL   (InternalID: 1, DisplayName: Abbey-Road_S1, ExternalID: D:\MovieRepository\test\Abbey-Road_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 12:37:50 PM)
+2022-10-30 11:58:51,778 [46] INFO  - GLOBAL   (InternalID: 1, DisplayName: Abbey-Road_S1, ExternalID: D:\MovieRepository\test\Abbey-Road_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 12:37:50 PM)
+2022-10-30 11:58:51,779 [47] INFO  - GLOBAL   (InternalID: 2, DisplayName: Albert-Alarm_S1, ExternalID: D:\MovieRepository\test\Albert-Alarm_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,780 [47] INFO  - GLOBAL   (InternalID: 3, DisplayName: AOT-Basketball-Parking_S1, ExternalID: D:\MovieRepository\test\AOT-Basketball-Parking_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,783 [47] INFO  - GLOBAL   (InternalID: 46, DisplayName: China-Gate_S1, ExternalID: D:\MovieRepository\China-Gate_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/27/2022 4:27:48 PM)
+2022-10-30 11:58:51,784 [47] INFO  - GLOBAL   (InternalID: 6, DisplayName: China-Sidewalk-03_S1_03, ExternalID: D:\MovieRepository\h264\China-Sidewalk-03_S1_03.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository\h264, Address: D:\MovieRepository\h264, InternalId: 2, ExternalId: D:\MovieRepository\h264 , 6/6/2022 4:29:12 PM)
+2022-10-30 11:58:51,780 [46] INFO  - GLOBAL   (InternalID: 2, DisplayName: Albert-Alarm_S1, ExternalID: D:\MovieRepository\test\Albert-Alarm_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,785 [46] INFO  - GLOBAL   (InternalID: 3, DisplayName: AOT-Basketball-Parking_S1, ExternalID: D:\MovieRepository\test\AOT-Basketball-Parking_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,785 [47] INFO  - GLOBAL   (InternalID: 4, DisplayName: Lausanne-Place_S1, ExternalID: D:\MovieRepository\test\Lausanne-Place_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,787 [47] INFO  - GLOBAL   (InternalID: 5, DisplayName: London-Abbey-Road-B507_S1, ExternalID: D:\MovieRepository\test\London-Abbey-Road-B507_S1.ts, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,786 [46] INFO  - GLOBAL   (InternalID: 46, DisplayName: China-Gate_S1, ExternalID: D:\MovieRepository\China-Gate_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/27/2022 4:27:48 PM)
+2022-10-30 11:58:51,788 [46] INFO  - GLOBAL   (InternalID: 6, DisplayName: China-Sidewalk-03_S1_03, ExternalID: D:\MovieRepository\h264\China-Sidewalk-03_S1_03.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository\h264, Address: D:\MovieRepository\h264, InternalId: 2, ExternalId: D:\MovieRepository\h264 , 6/6/2022 4:29:12 PM)
+2022-10-30 11:58:51,787 [47] INFO  - GLOBAL   (InternalID: 9, DisplayName: Normal_S1, ExternalID: D:\MovieRepository\Normal_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 7/26/2022 8:04:51 PM)
+2022-10-30 11:58:51,789 [47] INFO  - GLOBAL   (InternalID: 47, DisplayName: UAT-Overpass_S1, ExternalID: D:\MovieRepository\UAT-Overpass_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/27/2022 4:27:48 PM)
+2022-10-30 11:58:51,788 [46] INFO  - GLOBAL   (InternalID: 4, DisplayName: Lausanne-Place_S1, ExternalID: D:\MovieRepository\test\Lausanne-Place_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,790 [46] INFO  - GLOBAL   (InternalID: 5, DisplayName: London-Abbey-Road-B507_S1, ExternalID: D:\MovieRepository\test\London-Abbey-Road-B507_S1.ts, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,790 [46] INFO  - GLOBAL   (InternalID: 9, DisplayName: Normal_S1, ExternalID: D:\MovieRepository\Normal_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 7/26/2022 8:04:51 PM)
+2022-10-30 11:58:51,791 [46] INFO  - GLOBAL   (InternalID: 47, DisplayName: UAT-Overpass_S1, ExternalID: D:\MovieRepository\UAT-Overpass_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/27/2022 4:27:48 PM)
+2022-10-30 11:59:47,629 [30] INFO  - MONITOR  ResourceStatus: | CPU: 27% | WrkSetMem: 71,240 KB | PagedMem: 93,596 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1097 
+2022-10-30 12:01:47,641 [30] INFO  - MONITOR  ResourceStatus: | CPU: 32% | WrkSetMem: 71,360 KB | PagedMem: 93,620 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1126 
+2022-10-30 12:03:47,652 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 71,456 KB | PagedMem: 93,684 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1135 
+2022-10-30 12:05:47,674 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 71,692 KB | PagedMem: 93,964 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1148 
+2022-10-30 12:07:47,692 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 71,692 KB | PagedMem: 93,972 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1156 
+2022-10-30 12:09:47,706 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 71,684 KB | PagedMem: 93,932 KB | NonPagedMem: 81 KB | ThrdCnt: 54 | HndlCnt: 1152 
+2022-10-30 12:11:47,718 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 71,676 KB | PagedMem: 93,972 KB | NonPagedMem: 81 KB | ThrdCnt: 55 | HndlCnt: 1189 
+2022-10-30 12:13:47,730 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 71,936 KB | PagedMem: 94,228 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1186 
+2022-10-30 12:15:47,744 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 71,984 KB | PagedMem: 94,228 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1137 
+2022-10-30 12:17:47,758 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 71,960 KB | PagedMem: 94,228 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1172 
+2022-10-30 12:19:47,780 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 71,924 KB | PagedMem: 94,148 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1147 
+2022-10-30 12:21:47,794 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 71,716 KB | PagedMem: 94,200 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1175 
+2022-10-30 12:23:47,808 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 71,200 KB | PagedMem: 93,536 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1087 
+2022-10-30 12:25:47,815 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 71,200 KB | PagedMem: 93,532 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1087 
+2022-10-30 12:27:47,826 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 71,244 KB | PagedMem: 93,596 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1107 
+2022-10-30 12:29:47,839 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 71,276 KB | PagedMem: 93,660 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1106 
+2022-10-30 12:31:47,859 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 71,240 KB | PagedMem: 93,660 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1146 
+2022-10-30 12:33:47,868 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 71,164 KB | PagedMem: 93,524 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1145 
+2022-10-30 12:35:47,885 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 71,168 KB | PagedMem: 93,524 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1121 
+2022-10-30 12:37:47,899 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 70,384 KB | PagedMem: 93,652 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1121 
+2022-10-30 12:39:47,911 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 70,484 KB | PagedMem: 93,716 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1131 
+2022-10-30 12:41:47,924 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 63,948 KB | PagedMem: 93,844 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1136 
+2022-10-30 12:43:47,943 [30] INFO  - MONITOR  ResourceStatus: | CPU: 35% | WrkSetMem: 64,056 KB | PagedMem: 93,912 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1111 
+2022-10-30 12:45:47,962 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 64,048 KB | PagedMem: 93,912 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1141 
+2022-10-30 12:47:47,979 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,876 KB | PagedMem: 93,872 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1130 
+2022-10-30 12:49:48,003 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,932 KB | PagedMem: 93,976 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1095 
+2022-10-30 12:51:48,012 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 63,912 KB | PagedMem: 93,976 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1125 
+2022-10-30 12:53:48,025 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 63,896 KB | PagedMem: 93,976 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1155 
+2022-10-30 12:55:48,040 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 63,856 KB | PagedMem: 93,976 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1110 
+2022-10-30 12:57:48,054 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 63,764 KB | PagedMem: 93,976 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1135 
+2022-10-30 12:59:48,069 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 63,312 KB | PagedMem: 93,488 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1096 
+2022-10-30 13:01:48,083 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,300 KB | PagedMem: 93,524 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1135 
+2022-10-30 13:03:48,098 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,256 KB | PagedMem: 93,588 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1126 
+2022-10-30 13:05:48,114 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,308 KB | PagedMem: 93,716 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1131 
+2022-10-30 13:07:48,129 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,384 KB | PagedMem: 93,844 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1147 
+2022-10-30 13:09:48,142 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,336 KB | PagedMem: 93,804 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1140 
+2022-10-30 13:11:48,157 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,340 KB | PagedMem: 93,900 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1185 
+2022-10-30 13:13:48,171 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,296 KB | PagedMem: 93,980 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1171 
+2022-10-30 13:15:48,184 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,224 KB | PagedMem: 94,108 KB | NonPagedMem: 81 KB | ThrdCnt: 54 | HndlCnt: 1144 
+2022-10-30 13:17:48,200 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,092 KB | PagedMem: 94,100 KB | NonPagedMem: 81 KB | ThrdCnt: 54 | HndlCnt: 1179 
+2022-10-30 13:19:48,224 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 73,028 KB | PagedMem: 94,124 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1130 
+2022-10-30 13:21:48,245 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 72,984 KB | PagedMem: 94,164 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1162 
+2022-10-30 13:23:48,261 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 72,916 KB | PagedMem: 94,164 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1153 
+2022-10-30 13:25:48,274 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 72,824 KB | PagedMem: 94,164 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1123 
+2022-10-30 13:27:48,287 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 72,204 KB | PagedMem: 93,536 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1153 
+2022-10-30 13:29:48,299 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 72,148 KB | PagedMem: 93,584 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1098 
+2022-10-30 13:31:48,318 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 72,188 KB | PagedMem: 93,680 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1136 
+2022-10-30 13:33:48,326 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 72,212 KB | PagedMem: 93,692 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1163 
+2022-10-30 13:35:48,343 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 72,216 KB | PagedMem: 93,692 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1148 
+2022-10-30 13:37:48,348 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 72,316 KB | PagedMem: 93,820 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1173 
+2022-10-30 13:38:48,676 [47] INFO  - GLOBAL   Settings modified, invalidating cache
+2022-10-30 13:38:48,676 [31] INFO  - GLOBAL   Settings modified, invalidating cache
+2022-10-30 13:39:48,361 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 74,828 KB | PagedMem: 93,908 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1192 
+2022-10-30 13:41:48,368 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 75,056 KB | PagedMem: 94,036 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1202 
+2022-10-30 13:43:48,383 [30] INFO  - MONITOR  ResourceStatus: | CPU: 31% | WrkSetMem: 75,200 KB | PagedMem: 94,164 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1216 
+2022-10-30 13:45:48,395 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 75,236 KB | PagedMem: 94,212 KB | NonPagedMem: 80 KB | ThrdCnt: 57 | HndlCnt: 1207 
+2022-10-30 13:47:48,415 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 75,340 KB | PagedMem: 94,356 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1197 
+2022-10-30 13:49:48,445 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 75,464 KB | PagedMem: 94,356 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1163 
+2022-10-30 13:51:48,461 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 75,512 KB | PagedMem: 94,364 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1173 
+2022-10-30 13:53:48,481 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 75,520 KB | PagedMem: 94,364 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1207 
+2022-10-30 13:55:48,496 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 74,860 KB | PagedMem: 93,656 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1139 
+2022-10-30 13:57:48,510 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 74,864 KB | PagedMem: 93,656 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1164 
+2022-10-30 13:59:48,528 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 74,908 KB | PagedMem: 93,720 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1154 
+2022-10-30 14:01:48,547 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 75,136 KB | PagedMem: 94,024 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1161 
+2022-10-30 14:03:48,552 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 75,152 KB | PagedMem: 94,028 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1163 
+2022-10-30 14:05:48,562 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 75,164 KB | PagedMem: 94,028 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1159 
+2022-10-30 14:07:48,569 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 75,320 KB | PagedMem: 94,156 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1181 
+2022-10-30 14:09:48,574 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 75,344 KB | PagedMem: 94,156 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1129 
+2022-10-30 14:11:48,582 [30] INFO  - MONITOR  ResourceStatus: | CPU: 32% | WrkSetMem: 75,360 KB | PagedMem: 94,156 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1159 
+2022-10-30 14:13:48,594 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 75,360 KB | PagedMem: 94,156 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1186 
+2022-10-30 14:15:48,613 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 75,372 KB | PagedMem: 94,156 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1151 
+2022-10-30 14:17:48,627 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 65,804 KB | PagedMem: 94,268 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1179 
+2022-10-30 14:19:48,656 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 65,880 KB | PagedMem: 94,236 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1146 
+2022-10-30 14:21:48,673 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 64,232 KB | PagedMem: 93,552 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1115 
+2022-10-30 14:23:48,679 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 64,248 KB | PagedMem: 93,552 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1145 
+2022-10-30 14:25:48,688 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 64,328 KB | PagedMem: 93,624 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1127 
+2022-10-30 14:27:48,700 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 62,712 KB | PagedMem: 93,776 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1141 
+2022-10-30 14:29:48,717 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,768 KB | PagedMem: 93,888 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1149 
+2022-10-30 14:31:48,735 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,736 KB | PagedMem: 93,880 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1175 
+2022-10-30 14:33:48,749 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 62,832 KB | PagedMem: 93,944 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1182 
+2022-10-30 14:35:48,758 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 62,832 KB | PagedMem: 93,904 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1166 
+2022-10-30 14:37:48,769 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 62,904 KB | PagedMem: 94,072 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1202 
+2022-10-30 14:39:48,783 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 62,956 KB | PagedMem: 94,084 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1142 
+2022-10-30 14:41:48,793 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 62,784 KB | PagedMem: 94,084 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1167 
+2022-10-30 14:43:48,813 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 62,848 KB | PagedMem: 94,148 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1160 
+2022-10-30 14:45:48,830 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 62,864 KB | PagedMem: 94,148 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1135 
+2022-10-30 14:47:48,837 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 62,424 KB | PagedMem: 93,644 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1104 
+2022-10-30 14:49:48,853 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 62,524 KB | PagedMem: 93,684 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1092 
+2022-10-30 14:51:48,863 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,508 KB | PagedMem: 93,724 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1118 
+2022-10-30 14:53:48,871 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,512 KB | PagedMem: 93,724 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1138 
+2022-10-30 14:55:48,877 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 62,528 KB | PagedMem: 93,732 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1132 
+2022-10-30 14:57:48,886 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 62,560 KB | PagedMem: 93,836 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1171 
+2022-10-30 14:59:48,895 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 62,564 KB | PagedMem: 93,776 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1174 
+2022-10-30 15:01:20,029 [21] INFO  - GLOBAL   Settings modified, invalidating cache
+2022-10-30 15:01:20,031 [69] INFO  - GLOBAL   Settings modified, invalidating cache
+2022-10-30 15:01:48,910 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 62,748 KB | PagedMem: 93,616 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1104 
+2022-10-30 15:03:48,923 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 62,828 KB | PagedMem: 93,616 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1129 
+2022-10-30 15:05:48,927 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 62,836 KB | PagedMem: 93,616 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1125 
+2022-10-30 15:07:48,935 [30] INFO  - MONITOR  ResourceStatus: | CPU: 27% | WrkSetMem: 62,824 KB | PagedMem: 93,808 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1135 
+2022-10-30 15:09:48,951 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 62,820 KB | PagedMem: 93,760 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1164 
+2022-10-30 15:11:48,959 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 62,868 KB | PagedMem: 93,920 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1179 
+2022-10-30 15:13:48,975 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 63,028 KB | PagedMem: 94,096 KB | NonPagedMem: 79 KB | ThrdCnt: 57 | HndlCnt: 1184 
+2022-10-30 15:15:48,980 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 63,068 KB | PagedMem: 94,020 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1161 
+2022-10-30 15:17:48,998 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 63,076 KB | PagedMem: 94,020 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1181 
+2022-10-30 15:19:49,024 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 63,164 KB | PagedMem: 94,092 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1151 
+2022-10-30 15:21:49,045 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 63,176 KB | PagedMem: 94,092 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1171 
+2022-10-30 15:23:49,060 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 63,228 KB | PagedMem: 94,140 KB | NonPagedMem: 81 KB | ThrdCnt: 57 | HndlCnt: 1187 
+2022-10-30 15:25:49,078 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 63,276 KB | PagedMem: 94,156 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1147 
+2022-10-30 15:27:49,090 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 62,900 KB | PagedMem: 93,740 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1105 
+2022-10-30 15:29:49,099 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 62,920 KB | PagedMem: 93,752 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1130 
+2022-10-30 15:31:49,106 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 62,884 KB | PagedMem: 93,744 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1141 
+2022-10-30 15:33:49,125 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 62,908 KB | PagedMem: 93,744 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1159 
+2022-10-30 15:34:35,261 [33] INFO  - GLOBAL   Automatic invoke scheduled task. scheduled task details: 
+ 	 frequency: Daily, synopsisStart: 10/30/2022 3:29:00 PM, synopsisEnd: 10/30/2022 4:29:00 PM 
+ 	 Camera:46 , Owner vlad, ID 86
+2022-10-30 15:34:35,281 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1345, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,285 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1346, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,286 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1347, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,288 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1348, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,289 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1349, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,290 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1350, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,292 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1351, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,293 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1352, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,294 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1353, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,295 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1354, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,300 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1355, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,302 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1356, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,303 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1357, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full for processing task: Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,304 [33] INFO  - GLOBAL   Created and referenced tasks: 
+#0: 437
+
+2022-10-30 15:34:35,307 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1345, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,307 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1346, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,308 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1347, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,308 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1348, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,309 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1349, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,309 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1350, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,309 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1351, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,310 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1352, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,310 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1353, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,311 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1354, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,311 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1355, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,312 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1356, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,312 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1357, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,312 [33] INFO  - GLOBAL   Notify processing task Id: 437, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,324 [33] INFO  - GLOBAL   Scheduled task 86 invoked
+2022-10-30 15:34:35,324 [33] INFO  - GLOBAL   Scheduled task scheduled task details: 
+ 	 frequency: Daily, synopsisStart: 10/31/2022 3:29:00 PM, synopsisEnd: 10/31/2022 4:29:00 PM 
+ 	 Camera:46 , Owner vlad, ID 86 execution incremented
+2022-10-30 15:34:35,327 [33] INFO  - GLOBAL   Automatic invoke scheduled task. scheduled task details: 
+ 	 frequency: Daily, synopsisStart: 10/30/2022 3:29:00 PM, synopsisEnd: 10/30/2022 4:29:00 PM 
+ 	 Camera:9 , Owner vlad, ID 87
+2022-10-30 15:34:35,340 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1358, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,343 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1359, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,345 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1360, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,346 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1361, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,348 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1362, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,350 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1363, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,351 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1364, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,352 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1365, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,353 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1366, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,354 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1367, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,355 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1368, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,358 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1369, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,359 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1370, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full for processing task: Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,360 [33] INFO  - GLOBAL   Created and referenced tasks: 
+#0: 438
+
+2022-10-30 15:34:35,361 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1358, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,362 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1359, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,362 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1360, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,363 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1361, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,363 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1362, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,363 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1363, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,364 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1364, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,364 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1365, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,365 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1366, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,365 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1367, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,365 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1368, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,366 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1369, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,366 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1370, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,367 [33] INFO  - GLOBAL   Notify processing task Id: 438, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,373 [33] INFO  - GLOBAL   Scheduled task 87 invoked
+2022-10-30 15:34:35,374 [33] INFO  - GLOBAL   Scheduled task scheduled task details: 
+ 	 frequency: Daily, synopsisStart: 10/31/2022 3:29:00 PM, synopsisEnd: 10/31/2022 4:29:00 PM 
+ 	 Camera:9 , Owner vlad, ID 87 execution incremented
+2022-10-30 15:34:35,375 [33] INFO  - GLOBAL   Automatic invoke scheduled task. scheduled task details: 
+ 	 frequency: Daily, synopsisStart: 10/30/2022 3:29:00 PM, synopsisEnd: 10/30/2022 4:29:00 PM 
+ 	 Camera:47 , Owner vlad, ID 88
+2022-10-30 15:34:35,380 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1371, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,382 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1372, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,383 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1373, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,385 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1374, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,387 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1375, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,389 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1376, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,390 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1377, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,392 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1378, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,393 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1379, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,394 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1380, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,396 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1381, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,397 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1382, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,398 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1383, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,399 [33] INFO  - GLOBAL   Created and referenced tasks: 
+#0: 439
+
+2022-10-30 15:34:35,400 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1371, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,403 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1372, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,405 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1373, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,405 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1374, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,407 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1375, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,408 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1376, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,409 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1377, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,410 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1378, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,411 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1379, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,416 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1380, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,416 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1381, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,417 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1382, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,417 [33] INFO  - GLOBAL   Publish queue fetching task Id: 1383, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,418 [33] INFO  - GLOBAL   Notify processing task Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full creation
+2022-10-30 15:34:35,422 [33] INFO  - GLOBAL   Scheduled task 88 invoked
+2022-10-30 15:34:35,423 [33] INFO  - GLOBAL   Scheduled task scheduled task details: 
+ 	 frequency: Daily, synopsisStart: 10/31/2022 3:29:00 PM, synopsisEnd: 10/31/2022 4:29:00 PM 
+ 	 Camera:47 , Owner vlad, ID 88 execution incremented
+2022-10-30 15:35:49,141 [30] INFO  - MONITOR  ResourceStatus: | CPU: 40% | WrkSetMem: 64,032 KB | PagedMem: 93,944 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1156 
+2022-10-30 15:37:49,158 [30] INFO  - MONITOR  ResourceStatus: | CPU: 65% | WrkSetMem: 64,116 KB | PagedMem: 93,976 KB | NonPagedMem: 80 KB | ThrdCnt: 54 | HndlCnt: 1161 
+2022-10-30 15:39:49,178 [30] INFO  - MONITOR  ResourceStatus: | CPU: 66% | WrkSetMem: 64,148 KB | PagedMem: 93,976 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1201 
+2022-10-30 15:41:49,186 [30] INFO  - MONITOR  ResourceStatus: | CPU: 67% | WrkSetMem: 63,972 KB | PagedMem: 93,840 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1157 
+2022-10-30 15:43:49,200 [30] INFO  - MONITOR  ResourceStatus: | CPU: 75% | WrkSetMem: 64,048 KB | PagedMem: 93,944 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1185 
+2022-10-30 15:44:58,593 [70] INFO  - GLOBAL   Kickout inactive users deleted 1.
+2022-10-30 15:45:49,222 [30] INFO  - MONITOR  ResourceStatus: | CPU: 42% | WrkSetMem: 64,864 KB | PagedMem: 94,048 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1150 
+2022-10-30 15:47:49,233 [30] INFO  - MONITOR  ResourceStatus: | CPU: 43% | WrkSetMem: 64,600 KB | PagedMem: 94,048 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1182 
+2022-10-30 15:49:49,264 [30] INFO  - MONITOR  ResourceStatus: | CPU: 55% | WrkSetMem: 64,652 KB | PagedMem: 94,088 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1192 
+2022-10-30 15:51:49,277 [30] INFO  - MONITOR  ResourceStatus: | CPU: 57% | WrkSetMem: 64,652 KB | PagedMem: 94,048 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1147 
+2022-10-30 15:53:49,285 [30] INFO  - MONITOR  ResourceStatus: | CPU: 32% | WrkSetMem: 64,640 KB | PagedMem: 94,088 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1100 
+2022-10-30 15:55:49,296 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 64,648 KB | PagedMem: 94,088 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1100 
+2022-10-30 15:57:49,315 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 64,520 KB | PagedMem: 94,088 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1132 
+2022-10-30 15:59:49,322 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 64,516 KB | PagedMem: 94,088 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1130 
+2022-10-30 16:01:49,334 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 64,532 KB | PagedMem: 94,048 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1134 
+2022-10-30 16:03:49,353 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 64,512 KB | PagedMem: 94,048 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1160 
+2022-10-30 16:05:49,360 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 64,536 KB | PagedMem: 94,048 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1135 
+2022-10-30 16:07:49,374 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 64,548 KB | PagedMem: 94,088 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1162 
+2022-10-30 16:09:49,384 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 64,580 KB | PagedMem: 94,088 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1161 
+2022-10-30 16:11:49,403 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 64,564 KB | PagedMem: 94,036 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1130 
+2022-10-30 16:13:49,417 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 63,648 KB | PagedMem: 94,076 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1156 
+2022-10-30 16:15:49,424 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 63,672 KB | PagedMem: 94,084 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1138 
+2022-10-30 16:17:49,441 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 63,620 KB | PagedMem: 94,084 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1178 
+2022-10-30 16:19:49,487 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 63,116 KB | PagedMem: 93,516 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1085 
+2022-10-30 16:21:49,562 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 63,124 KB | PagedMem: 93,516 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1105 
+2022-10-30 16:23:49,574 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 63,016 KB | PagedMem: 93,472 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1129 
+2022-10-30 16:25:49,590 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 63,036 KB | PagedMem: 93,516 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1110 
+2022-10-30 16:27:49,611 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 62,620 KB | PagedMem: 93,644 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1140 
+2022-10-30 16:29:49,626 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 62,712 KB | PagedMem: 93,604 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1127 
+2022-10-30 16:31:49,634 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 62,928 KB | PagedMem: 93,704 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1167 
+2022-10-30 16:33:49,653 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 62,744 KB | PagedMem: 93,768 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1177 
+2022-10-30 16:35:49,666 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 62,776 KB | PagedMem: 93,832 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1167 
+2022-10-30 16:37:49,678 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 62,944 KB | PagedMem: 94,024 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1162 
+2022-10-30 16:39:49,688 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 62,948 KB | PagedMem: 94,024 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1127 
+2022-10-30 16:41:49,698 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 62,944 KB | PagedMem: 94,024 KB | NonPagedMem: 80 KB | ThrdCnt: 53 | HndlCnt: 1152 
+2022-10-30 16:43:49,708 [30] INFO  - MONITOR  ResourceStatus: | CPU: 35% | WrkSetMem: 62,996 KB | PagedMem: 94,088 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1181 
+2022-10-30 16:45:49,729 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 62,532 KB | PagedMem: 93,560 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1116 
+2022-10-30 16:47:49,744 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 72,788 KB | PagedMem: 93,512 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1078 
+2022-10-30 16:49:49,769 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 72,788 KB | PagedMem: 93,540 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1099 
+2022-10-30 16:51:49,788 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 72,808 KB | PagedMem: 93,524 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 16:53:49,804 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 72,740 KB | PagedMem: 93,524 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1092 
+2022-10-30 16:55:49,817 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 72,708 KB | PagedMem: 93,524 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1097 
+2022-10-30 16:57:49,834 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 72,784 KB | PagedMem: 93,672 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1096 
+2022-10-30 16:59:49,849 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 72,840 KB | PagedMem: 93,712 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1107 
+2022-10-30 17:01:49,862 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 72,812 KB | PagedMem: 93,716 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1132 
+2022-10-30 17:03:49,878 [30] INFO  - MONITOR  ResourceStatus: | CPU: 30% | WrkSetMem: 72,924 KB | PagedMem: 93,936 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1132 
+2022-10-30 17:05:49,894 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 72,888 KB | PagedMem: 93,844 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1092 
+2022-10-30 17:07:49,902 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 72,964 KB | PagedMem: 94,032 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1132 
+2022-10-30 17:09:49,907 [30] INFO  - MONITOR  ResourceStatus: | CPU: 25% | WrkSetMem: 72,996 KB | PagedMem: 94,032 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1107 
+2022-10-30 17:11:49,914 [30] INFO  - MONITOR  ResourceStatus: | CPU: 15% | WrkSetMem: 72,984 KB | PagedMem: 93,992 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1146 
+2022-10-30 17:13:49,923 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,032 KB | PagedMem: 94,096 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1137 
+2022-10-30 17:15:49,932 [30] INFO  - MONITOR  ResourceStatus: | CPU: 18% | WrkSetMem: 73,020 KB | PagedMem: 94,000 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1093 
+2022-10-30 17:17:49,938 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 72,616 KB | PagedMem: 93,660 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1128 
+2022-10-30 17:19:49,947 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 72,636 KB | PagedMem: 93,652 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1162 
+2022-10-30 17:21:49,953 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 72,664 KB | PagedMem: 93,700 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1117 
+2022-10-30 17:23:49,952 [30] INFO  - MONITOR  ResourceStatus: | CPU: 28% | WrkSetMem: 72,736 KB | PagedMem: 93,732 KB | NonPagedMem: 79 KB | ThrdCnt: 57 | HndlCnt: 1146 
+2022-10-30 17:25:49,952 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 72,812 KB | PagedMem: 93,780 KB | NonPagedMem: 79 KB | ThrdCnt: 58 | HndlCnt: 1121 
+2022-10-30 17:27:49,965 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 72,692 KB | PagedMem: 93,608 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1131 
+2022-10-30 17:29:49,974 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 72,728 KB | PagedMem: 93,672 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1131 
+2022-10-30 17:31:49,974 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 72,860 KB | PagedMem: 93,800 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1122 
+2022-10-30 17:33:49,983 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 72,936 KB | PagedMem: 93,864 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1136 
+2022-10-30 17:35:49,991 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 72,952 KB | PagedMem: 93,864 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1101 
+2022-10-30 17:37:49,997 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 72,884 KB | PagedMem: 93,860 KB | NonPagedMem: 79 KB | ThrdCnt: 53 | HndlCnt: 1126 
+2022-10-30 17:39:49,998 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 72,920 KB | PagedMem: 93,848 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1147 
+2022-10-30 17:41:50,002 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 72,944 KB | PagedMem: 93,848 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1123 
+2022-10-30 17:43:50,012 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 66,764 KB | PagedMem: 93,808 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1157 
+2022-10-30 17:45:50,015 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 66,364 KB | PagedMem: 93,420 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1072 
+2022-10-30 17:47:50,023 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 66,380 KB | PagedMem: 93,420 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1102 
+2022-10-30 17:49:50,041 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 66,444 KB | PagedMem: 93,440 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1084 
+2022-10-30 17:51:50,051 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 66,612 KB | PagedMem: 93,632 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1114 
+2022-10-30 17:53:50,063 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,492 KB | PagedMem: 93,696 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1117 
+2022-10-30 17:55:50,077 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,628 KB | PagedMem: 93,824 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1119 
+2022-10-30 17:57:50,080 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,612 KB | PagedMem: 93,784 KB | NonPagedMem: 80 KB | ThrdCnt: 50 | HndlCnt: 1149 
+2022-10-30 17:59:50,087 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,812 KB | PagedMem: 93,952 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1150 
+2022-10-30 18:01:50,087 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,820 KB | PagedMem: 93,952 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1110 
+2022-10-30 18:03:50,098 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,816 KB | PagedMem: 93,948 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1134 
+2022-10-30 18:05:50,097 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,816 KB | PagedMem: 93,952 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1100 
+2022-10-30 18:07:50,098 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,820 KB | PagedMem: 93,952 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1125 
+2022-10-30 18:09:50,109 [30] INFO  - MONITOR  ResourceStatus: | CPU: 5% | WrkSetMem: 64,820 KB | PagedMem: 93,952 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1093 
+2022-10-30 18:11:50,119 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,320 KB | PagedMem: 93,440 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1113 
+2022-10-30 18:13:50,133 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,332 KB | PagedMem: 93,440 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1093 
+2022-10-30 18:15:50,141 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,332 KB | PagedMem: 93,440 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1119 
+2022-10-30 18:17:50,146 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,440 KB | PagedMem: 93,568 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 18:19:50,167 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,528 KB | PagedMem: 93,632 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1110 
+2022-10-30 18:21:50,183 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,592 KB | PagedMem: 93,740 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1127 
+2022-10-30 18:23:50,198 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,780 KB | PagedMem: 93,884 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1093 
+2022-10-30 18:25:50,207 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,792 KB | PagedMem: 93,888 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1084 
+2022-10-30 18:27:50,216 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,788 KB | PagedMem: 93,888 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1114 
+2022-10-30 18:29:50,222 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,808 KB | PagedMem: 93,888 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1080 
+2022-10-30 18:31:50,230 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,804 KB | PagedMem: 93,876 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1115 
+2022-10-30 18:33:50,234 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,864 KB | PagedMem: 93,936 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1080 
+2022-10-30 18:35:50,238 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,868 KB | PagedMem: 93,936 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1100 
+2022-10-30 18:37:50,250 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 64,868 KB | PagedMem: 93,940 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1126 
+2022-10-30 18:39:50,262 [30] INFO  - MONITOR  ResourceStatus: | CPU: 14% | WrkSetMem: 64,520 KB | PagedMem: 93,568 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1078 
+2022-10-30 18:41:50,268 [30] INFO  - MONITOR  ResourceStatus: | CPU: 29% | WrkSetMem: 64,492 KB | PagedMem: 93,484 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1072 
+2022-10-30 18:43:50,268 [30] INFO  - MONITOR  ResourceStatus: | CPU: 47% | WrkSetMem: 64,520 KB | PagedMem: 93,568 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1103 
+2022-10-30 18:45:50,280 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,572 KB | PagedMem: 93,712 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1093 
+2022-10-30 18:47:50,287 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 64,588 KB | PagedMem: 93,776 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1128 
+2022-10-30 18:49:50,311 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 64,616 KB | PagedMem: 93,776 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1099 
+2022-10-30 18:51:50,314 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 64,700 KB | PagedMem: 93,840 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1124 
+2022-10-30 18:53:50,327 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 64,676 KB | PagedMem: 93,800 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1142 
+2022-10-30 18:55:50,332 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,752 KB | PagedMem: 93,928 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1122 
+2022-10-30 18:57:50,347 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 64,836 KB | PagedMem: 93,968 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1145 
+2022-10-30 18:59:50,363 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,860 KB | PagedMem: 94,072 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1158 
+2022-10-30 19:01:50,379 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 64,968 KB | PagedMem: 94,096 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1125 
+2022-10-30 19:03:50,385 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,180 KB | PagedMem: 93,968 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1123 
+2022-10-30 19:05:50,395 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,688 KB | PagedMem: 93,424 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1068 
+2022-10-30 19:07:50,403 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,704 KB | PagedMem: 93,424 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1089 
+2022-10-30 19:09:50,407 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 62,752 KB | PagedMem: 93,488 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1093 
+2022-10-30 19:11:50,423 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,804 KB | PagedMem: 93,552 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1124 
+2022-10-30 19:13:50,435 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 62,812 KB | PagedMem: 93,512 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1127 
+2022-10-30 19:15:50,439 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 62,704 KB | PagedMem: 93,420 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1090 
+2022-10-30 19:17:50,454 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,700 KB | PagedMem: 93,420 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1120 
+2022-10-30 19:19:50,472 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,804 KB | PagedMem: 93,548 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1108 
+2022-10-30 19:21:50,481 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,852 KB | PagedMem: 93,612 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1110 
+2022-10-30 19:23:50,487 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 62,800 KB | PagedMem: 93,516 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1118 
+2022-10-30 19:25:50,492 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 62,808 KB | PagedMem: 93,516 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1095 
+2022-10-30 19:27:50,497 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,992 KB | PagedMem: 93,764 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1100 
+2022-10-30 19:29:50,499 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,024 KB | PagedMem: 93,764 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1103 
+2022-10-30 19:31:50,509 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 63,104 KB | PagedMem: 93,828 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1139 
+2022-10-30 19:33:50,519 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,140 KB | PagedMem: 93,892 KB | NonPagedMem: 77 KB | ThrdCnt: 51 | HndlCnt: 1131 
+2022-10-30 19:35:50,532 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,192 KB | PagedMem: 93,956 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1093 
+2022-10-30 19:37:50,546 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,176 KB | PagedMem: 93,916 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1122 
+2022-10-30 19:39:50,548 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,176 KB | PagedMem: 93,916 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1117 
+2022-10-30 19:41:50,555 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 63,192 KB | PagedMem: 93,956 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1083 
+2022-10-30 19:43:50,568 [30] INFO  - MONITOR  ResourceStatus: | CPU: 34% | WrkSetMem: 63,200 KB | PagedMem: 93,956 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1078 
+2022-10-30 19:45:50,582 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 63,216 KB | PagedMem: 93,956 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1078 
+2022-10-30 19:47:50,589 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 63,232 KB | PagedMem: 93,956 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1098 
+2022-10-30 19:49:50,605 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 63,212 KB | PagedMem: 93,916 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1117 
+2022-10-30 19:51:50,616 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,716 KB | PagedMem: 93,412 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1082 
+2022-10-30 19:53:50,633 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 62,736 KB | PagedMem: 93,424 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1109 
+2022-10-30 19:55:50,648 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 62,736 KB | PagedMem: 93,424 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1084 
+2022-10-30 19:57:50,662 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 62,792 KB | PagedMem: 93,512 KB | NonPagedMem: 80 KB | ThrdCnt: 50 | HndlCnt: 1108 
+2022-10-30 19:59:50,665 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,952 KB | PagedMem: 93,680 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1109 
+2022-10-30 20:01:50,672 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,024 KB | PagedMem: 93,744 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1124 
+2022-10-30 20:03:50,684 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,184 KB | PagedMem: 93,872 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1124 
+2022-10-30 20:05:50,691 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,208 KB | PagedMem: 93,936 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1089 
+2022-10-30 20:07:50,698 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,224 KB | PagedMem: 93,936 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1114 
+2022-10-30 20:09:50,713 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,272 KB | PagedMem: 93,936 KB | NonPagedMem: 81 KB | ThrdCnt: 51 | HndlCnt: 1086 
+2022-10-30 20:11:50,729 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,276 KB | PagedMem: 93,936 KB | NonPagedMem: 81 KB | ThrdCnt: 51 | HndlCnt: 1111 
+2022-10-30 20:13:50,745 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,420 KB | PagedMem: 94,064 KB | NonPagedMem: 81 KB | ThrdCnt: 51 | HndlCnt: 1146 
+2022-10-30 20:15:50,760 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,464 KB | PagedMem: 94,128 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1154 
+2022-10-30 20:17:50,775 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 62,884 KB | PagedMem: 93,524 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1134 
+2022-10-30 20:19:50,799 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 62,884 KB | PagedMem: 93,524 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1092 
+2022-10-30 20:21:50,816 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 62,900 KB | PagedMem: 93,512 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1097 
+2022-10-30 20:23:50,823 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,036 KB | PagedMem: 93,648 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 20:25:50,836 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 63,124 KB | PagedMem: 93,904 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1107 
+2022-10-30 20:27:50,846 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,252 KB | PagedMem: 94,032 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1128 
+2022-10-30 20:29:50,857 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,248 KB | PagedMem: 94,032 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1147 
+2022-10-30 20:31:50,867 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 63,308 KB | PagedMem: 94,096 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1123 
+2022-10-30 20:33:50,885 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 63,336 KB | PagedMem: 94,144 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1153 
+2022-10-30 20:35:50,900 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,404 KB | PagedMem: 94,056 KB | NonPagedMem: 79 KB | ThrdCnt: 54 | HndlCnt: 1090 
+2022-10-30 20:37:50,917 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 72,988 KB | PagedMem: 93,660 KB | NonPagedMem: 80 KB | ThrdCnt: 56 | HndlCnt: 1118 
+2022-10-30 20:39:50,922 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 72,972 KB | PagedMem: 93,612 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1086 
+2022-10-30 20:41:50,938 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 72,896 KB | PagedMem: 93,444 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1095 
+2022-10-30 20:43:50,944 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 72,936 KB | PagedMem: 93,444 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1106 
+2022-10-30 20:45:50,954 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 72,952 KB | PagedMem: 93,484 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1127 
+2022-10-30 20:47:50,964 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 72,980 KB | PagedMem: 93,484 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1124 
+2022-10-30 20:49:50,984 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,164 KB | PagedMem: 93,612 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1132 
+2022-10-30 20:51:50,993 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,288 KB | PagedMem: 93,740 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1114 
+2022-10-30 20:53:51,000 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,308 KB | PagedMem: 93,804 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1149 
+2022-10-30 20:55:51,011 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,400 KB | PagedMem: 93,828 KB | NonPagedMem: 80 KB | ThrdCnt: 50 | HndlCnt: 1103 
+2022-10-30 20:57:51,028 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,432 KB | PagedMem: 93,868 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1129 
+2022-10-30 20:59:51,036 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,440 KB | PagedMem: 93,932 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1097 
+2022-10-30 21:01:51,041 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,440 KB | PagedMem: 93,932 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1123 
+2022-10-30 21:03:51,056 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,036 KB | PagedMem: 93,472 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1118 
+2022-10-30 21:05:51,072 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,040 KB | PagedMem: 93,472 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1059 
+2022-10-30 21:07:51,081 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,036 KB | PagedMem: 93,472 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1084 
+2022-10-30 21:09:51,094 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,088 KB | PagedMem: 93,536 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1102 
+2022-10-30 21:11:51,107 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,124 KB | PagedMem: 93,600 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1107 
+2022-10-30 21:13:51,124 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,260 KB | PagedMem: 93,728 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1122 
+2022-10-30 21:15:51,132 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,288 KB | PagedMem: 93,728 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1123 
+2022-10-30 21:17:51,149 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,452 KB | PagedMem: 93,916 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1118 
+2022-10-30 21:19:51,167 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,468 KB | PagedMem: 93,916 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1087 
+2022-10-30 21:21:51,174 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,468 KB | PagedMem: 93,916 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1107 
+2022-10-30 21:23:51,190 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,472 KB | PagedMem: 93,916 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1127 
+2022-10-30 21:25:51,206 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,480 KB | PagedMem: 93,916 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1123 
+2022-10-30 21:27:51,212 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,488 KB | PagedMem: 93,916 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 21:29:51,226 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,560 KB | PagedMem: 94,024 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1147 
+2022-10-30 21:31:51,230 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,128 KB | PagedMem: 93,512 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1074 
+2022-10-30 21:33:51,240 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,152 KB | PagedMem: 93,548 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1106 
+2022-10-30 21:35:51,248 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,132 KB | PagedMem: 93,552 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1102 
+2022-10-30 21:37:51,255 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,268 KB | PagedMem: 93,680 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1112 
+2022-10-30 21:39:51,264 [30] INFO  - MONITOR  ResourceStatus: | CPU: 13% | WrkSetMem: 73,316 KB | PagedMem: 93,680 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1112 
+2022-10-30 21:41:51,279 [30] INFO  - MONITOR  ResourceStatus: | CPU: 10% | WrkSetMem: 73,408 KB | PagedMem: 93,768 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1111 
+2022-10-30 21:43:51,294 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,428 KB | PagedMem: 93,808 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1147 
+2022-10-30 21:45:51,299 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,440 KB | PagedMem: 93,808 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1108 
+2022-10-30 21:47:51,304 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,460 KB | PagedMem: 93,808 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 21:49:51,328 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,484 KB | PagedMem: 93,808 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1128 
+2022-10-30 21:51:51,339 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,532 KB | PagedMem: 93,872 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 21:53:51,354 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,532 KB | PagedMem: 93,872 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1124 
+2022-10-30 21:55:51,370 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,536 KB | PagedMem: 93,872 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1094 
+2022-10-30 21:57:51,382 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,080 KB | PagedMem: 93,440 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1067 
+2022-10-30 21:59:51,394 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,068 KB | PagedMem: 93,456 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1057 
+2022-10-30 22:01:51,411 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,088 KB | PagedMem: 93,504 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1092 
+2022-10-30 22:03:51,427 [30] INFO  - MONITOR  ResourceStatus: | CPU: 12% | WrkSetMem: 73,016 KB | PagedMem: 93,456 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1112 
+2022-10-30 22:05:51,439 [30] INFO  - MONITOR  ResourceStatus: | CPU: 11% | WrkSetMem: 73,116 KB | PagedMem: 93,648 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1127 
+2022-10-30 22:07:51,455 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,216 KB | PagedMem: 93,760 KB | NonPagedMem: 79 KB | ThrdCnt: 56 | HndlCnt: 1137 
+2022-10-30 22:09:51,462 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,288 KB | PagedMem: 93,788 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1137 
+2022-10-30 22:11:51,481 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,332 KB | PagedMem: 93,852 KB | NonPagedMem: 79 KB | ThrdCnt: 55 | HndlCnt: 1132 
+2022-10-30 22:13:51,499 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,460 KB | PagedMem: 93,924 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1134 
+2022-10-30 22:15:51,516 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,544 KB | PagedMem: 94,044 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1114 
+2022-10-30 22:17:51,525 [30] INFO  - MONITOR  ResourceStatus: | CPU: 19% | WrkSetMem: 73,564 KB | PagedMem: 94,044 KB | NonPagedMem: 80 KB | ThrdCnt: 55 | HndlCnt: 1134 
+2022-10-30 22:19:51,546 [30] INFO  - MONITOR  ResourceStatus: | CPU: 9% | WrkSetMem: 73,520 KB | PagedMem: 93,852 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1133 
+2022-10-30 22:21:51,564 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,524 KB | PagedMem: 93,852 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1108 
+2022-10-30 22:23:51,572 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,528 KB | PagedMem: 93,852 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1133 
+2022-10-30 22:25:51,587 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,084 KB | PagedMem: 93,412 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1072 
+2022-10-30 22:27:51,592 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,068 KB | PagedMem: 93,372 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1096 
+2022-10-30 22:29:51,597 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,132 KB | PagedMem: 93,476 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1103 
+2022-10-30 22:31:51,611 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,164 KB | PagedMem: 93,540 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1113 
+2022-10-30 22:33:51,627 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,180 KB | PagedMem: 93,508 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1119 
+2022-10-30 22:35:51,639 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,188 KB | PagedMem: 93,572 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1082 
+2022-10-30 22:37:51,647 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,188 KB | PagedMem: 93,572 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1102 
+2022-10-30 22:39:51,665 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,308 KB | PagedMem: 93,652 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 22:41:51,684 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,388 KB | PagedMem: 93,716 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1099 
+2022-10-30 22:43:51,703 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,416 KB | PagedMem: 93,740 KB | NonPagedMem: 80 KB | ThrdCnt: 50 | HndlCnt: 1123 
+2022-10-30 22:45:51,719 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,432 KB | PagedMem: 93,740 KB | NonPagedMem: 80 KB | ThrdCnt: 50 | HndlCnt: 1083 
+2022-10-30 22:47:51,734 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,452 KB | PagedMem: 93,780 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1114 
+2022-10-30 22:49:51,760 [30] INFO  - MONITOR  ResourceStatus: | CPU: 6% | WrkSetMem: 73,568 KB | PagedMem: 93,908 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1107 
+2022-10-30 22:51:51,768 [30] INFO  - MONITOR  ResourceStatus: | CPU: 7% | WrkSetMem: 73,556 KB | PagedMem: 93,868 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1076 
+2022-10-30 22:53:51,773 [30] INFO  - MONITOR  ResourceStatus: | CPU: 16% | WrkSetMem: 73,576 KB | PagedMem: 93,908 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1102 
+2022-10-30 22:55:51,781 [30] INFO  - MONITOR  ResourceStatus: | CPU: 8% | WrkSetMem: 73,572 KB | PagedMem: 93,908 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1067 
+2022-10-30 22:57:51,793 [30] INFO  - MONITOR  ResourceStatus: | CPU: 17% | WrkSetMem: 73,564 KB | PagedMem: 93,868 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1096 
+2022-10-30 22:59:51,807 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,600 KB | PagedMem: 93,956 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1129 
+2022-10-30 23:01:51,812 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,164 KB | PagedMem: 93,476 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1089 
+2022-10-30 23:03:51,825 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,168 KB | PagedMem: 93,476 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1109 
+2022-10-30 23:05:51,842 [30] INFO  - MONITOR  ResourceStatus: | CPU: 20% | WrkSetMem: 73,164 KB | PagedMem: 93,476 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1095 
+2022-10-30 23:07:51,859 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,388 KB | PagedMem: 93,732 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1095 
+2022-10-30 23:09:51,873 [30] INFO  - MONITOR  ResourceStatus: | CPU: 26% | WrkSetMem: 73,420 KB | PagedMem: 93,692 KB | NonPagedMem: 79 KB | ThrdCnt: 50 | HndlCnt: 1108 
+2022-10-30 23:11:51,888 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,444 KB | PagedMem: 93,796 KB | NonPagedMem: 79 KB | ThrdCnt: 51 | HndlCnt: 1104 
+2022-10-30 23:13:51,901 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,628 KB | PagedMem: 93,972 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1101 
+2022-10-30 23:15:51,916 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,640 KB | PagedMem: 93,988 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1068 
+2022-10-30 23:17:51,928 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,648 KB | PagedMem: 94,036 KB | NonPagedMem: 79 KB | ThrdCnt: 52 | HndlCnt: 1094 
+2022-10-30 23:19:51,954 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,644 KB | PagedMem: 93,992 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1118 
+2022-10-30 23:21:51,970 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,652 KB | PagedMem: 94,036 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1093 
+2022-10-30 23:23:51,983 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,612 KB | PagedMem: 93,952 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1112 
+2022-10-30 23:25:51,998 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 73,668 KB | PagedMem: 94,032 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1093 
+2022-10-30 23:27:52,010 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,112 KB | PagedMem: 93,420 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1066 
+2022-10-30 23:29:52,023 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,076 KB | PagedMem: 93,380 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1065 
+2022-10-30 23:31:52,038 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,076 KB | PagedMem: 93,420 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1091 
+2022-10-30 23:33:52,055 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,036 KB | PagedMem: 93,444 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1115 
+2022-10-30 23:35:52,068 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,076 KB | PagedMem: 93,496 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1123 
+2022-10-30 23:37:52,082 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,088 KB | PagedMem: 93,540 KB | NonPagedMem: 80 KB | ThrdCnt: 52 | HndlCnt: 1135 
+2022-10-30 23:39:52,097 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,292 KB | PagedMem: 93,736 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1136 
+2022-10-30 23:41:52,112 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,292 KB | PagedMem: 93,696 KB | NonPagedMem: 78 KB | ThrdCnt: 50 | HndlCnt: 1140 
+2022-10-30 23:43:52,126 [30] INFO  - MONITOR  ResourceStatus: | CPU: 38% | WrkSetMem: 73,400 KB | PagedMem: 93,864 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1136 
+2022-10-30 23:45:52,140 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,384 KB | PagedMem: 93,864 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1112 
+2022-10-30 23:47:52,153 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,364 KB | PagedMem: 93,864 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1147 
+2022-10-30 23:49:52,180 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 73,300 KB | PagedMem: 93,928 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1102 
+2022-10-30 23:51:52,196 [30] INFO  - MONITOR  ResourceStatus: | CPU: 22% | WrkSetMem: 73,236 KB | PagedMem: 93,928 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1132 
+2022-10-30 23:53:52,209 [30] INFO  - MONITOR  ResourceStatus: | CPU: 21% | WrkSetMem: 73,160 KB | PagedMem: 93,928 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1164 
+2022-10-30 23:55:52,222 [30] INFO  - MONITOR  ResourceStatus: | CPU: 24% | WrkSetMem: 72,740 KB | PagedMem: 93,528 KB | NonPagedMem: 78 KB | ThrdCnt: 51 | HndlCnt: 1092 
+2022-10-30 23:57:52,238 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 72,552 KB | PagedMem: 93,524 KB | NonPagedMem: 80 KB | ThrdCnt: 51 | HndlCnt: 1088 
+2022-10-30 23:59:52,255 [30] INFO  - MONITOR  ResourceStatus: | CPU: 23% | WrkSetMem: 72,364 KB | PagedMem: 93,568 KB | NonPagedMem: 78 KB | ThrdCnt: 52 | HndlCnt: 1113 

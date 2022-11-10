@@ -1,0 +1,352 @@
+
+
+================================ VSSERVER
+
+2022-10-30 15:34:35,380 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1371, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,382 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1372, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,383 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1373, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,385 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1374, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,387 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1375, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,389 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1376, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,390 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1377, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,392 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1378, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,393 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1379, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,394 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1380, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,396 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1381, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,397 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1382, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,398 [33] INFO  - GLOBAL   Add Fetching Task: Id: 1383, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full for processing task: Id: 439, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:34:35,399 [33] INFO  - GLOBAL   Created and referenced tasks: 
+#0: 439
+
+
+
+
+================================= FETCHING
+
+
+2022-10-30 15:34:55,775 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1371, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:55,805 [39] INFO  - FETCHING Start fetch task Id: 1371, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:55,807 [32] INFO  - GLOBAL   Received queue item '163' from channel '4', messages left in queue: '11'
+2022-10-30 15:34:55,809 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1372, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:55,810 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:55,814 [72] INFO  - FETCHING Start fetch task Id: 1372, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:55,816 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:55,896 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:55,896 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:55,897 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:26:06 PM for export in 10/30/2022 3:30:00 PM
+2022-10-30 15:34:55,897 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:21:06 PM for export in 10/30/2022 3:25:00 PM
+2022-10-30 15:34:56,951 [39] INFO  - GLOBAL   Fetch task 1371 ended, status: Success
+
+
+================================= Processing
+
+2022-10-30 15:48:20,571 [1] INFO  - GLOBAL   Task taken: 439, status: Taken Start: 10/30/2022 3:25:00 PM end: 10/30/2022 4:30:00 PM. Processing on worker: 0
+2022-10-30 15:48:20,571 [1] INFO  - GLOBAL   EXTENDED LOGS - TBD REMOVE - ProcessingDispatcherSettings:False _nativeEngineHandler:False _hardCancellationToken:False
+2022-10-30 15:48:20,908 [1] INFO  - GLOBAL   Initializing processing worker with GPU: 0
+2022-10-30 15:48:20,912 [46] INFO  - GLOBAL   Task taken: Camera name: UAT-Overpass_S1, Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full
+2022-10-30 15:48:20,918 [46] INFO  - GLOBAL   ValidateAndAlterTaskParameters input: IsOverhead = False, IsCounting = False, StaticPeopleTracking = False
+2022-10-30 15:48:20,919 [46] INFO  - GLOBAL   ValidateAndAlterTaskParameters output: IsOverhead = False, IsCounting = False, StaticPeopleTracking = False
+2022-10-30 15:48:20,921 [46] INFO  - Create task, CameraFeatures = 0x0
+2022-10-30 15:48:20,921 [46] INFO  - Created new OX task. TaskId: 439, VideoId: 47, VideoName: UAT-Overpass_S1, OverHeadCamera: 0, PeopleCounting: 0
+2022-10-30 15:48:20,921 [46] INFO  - ###########################
+2022-10-30 15:48:20,922 [46] INFO  - ProcessingType: 1 EngineDecoderLiveBufferSize: 0
+2022-10-30 15:48:20,922 [70] INFO  - Starting thread the current number of running threads is 1, ThreadName: OX::Task thread , Thread ID:54312
+2022-10-30 15:48:20,922 [58] INFO  - Starting thread the current number of running threads is 2, ThreadName: EngineDecoder thread , Thread ID:33048
+2022-10-30 15:48:20,923 [58] INFO  - ShareDecoderContext == true. Calling cuCtxSetCurrent
+2022-10-30 15:48:20,923 [58] INFO  - Starting DecoderBuffer thread, threadID: 33048
+2022-10-30 15:48:20,922 [70] INFO  - | Task 439 | start engine processing thread
+2022-10-30 15:48:20,924 [44] INFO  - Starting thread the current number of running threads is 3, ThreadName: Segmentation , Thread ID:33680
+2022-10-30 15:48:20,924 [44] INFO  - | Task 439 | Starting Segmentation thread. ID = 33680
+2022-10-30 15:48:20,924 [63] INFO  - Starting thread the current number of running threads is 4, ThreadName: Detection , Thread ID:54584
+2022-10-30 15:48:20,925 [63] INFO  - | Task 439 | Starting Detection thread. ID = 54584
+2022-10-30 15:48:20,925 [64] INFO  - Starting thread the current number of running threads is 5, ThreadName: Tracking , Thread ID:26716
+2022-10-30 15:48:20,925 [64] INFO  - | Task 439 | Starting Tracking thread. ID = 26716
+2022-10-30 15:48:20,925 [70] INFO  - | Task 439 | Started new OX Sequence: 612
+2022-10-30 15:48:20,926 [70] INFO  - GPU Memory MBt, total : 11263 free : 7100
+2022-10-30 15:48:20,926 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:21:06 PM.464, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:20,927 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:48:20,927 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:48:20,928 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:21:06 PM.464, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:20,931 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:48:20,931 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:48:20,932 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:48:20,933 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:48:20,935 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:21:06.464
+2022-10-30 15:48:20,937 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:48:21,212 [70] INFO  - | Task 439 | Video size (L0): width:    1280 height:     720, aspect ratio: 1.778, processing pyramid level: 1, min tracking pyramid level: 0
+2022-10-30 15:48:22,218 [70] INFO  - | Task 439 | WarmupEnd fps =15.0351
+2022-10-30 15:48:22,219 [70] INFO  - | Task 439 | Warmup ended. Frame: 299, avg fps: 15.0351, detection frame step: 5, pose detection frame step: 450, head counting frame step: 1800, xy locations frame sampling rate : 15
+2022-10-30 15:48:22,223 [70] INFO  - | Task 439 | Read Geoloc data, Camera: 47
+2022-10-30 15:48:22,223 [70] INFO  - | Task 439 | Read Geoloc data, Width: 1280
+2022-10-30 15:48:22,223 [70] INFO  - | Task 439 | Read Geoloc data, Height: 720
+2022-10-30 15:48:22,223 [70] INFO  - | Task 439 | Read Geoloc data, Version: 1
+2022-10-30 15:48:23,641 [44] INFO  - | Task 439 | No clock detected.
+2022-10-30 15:48:24,611 [56] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:48:24,613 [56] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:48:24,635 [56] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:48:24,635 [56] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:48:24,635 [56] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:48:24,636 [56] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:48:24,866 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:26:06 PM.531, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:24,866 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:48:24,867 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:48:24,868 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:26:06 PM.531, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:24,869 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:48:24,869 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:48:24,870 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:48:24,870 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:48:24,872 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:26:06.531
+2022-10-30 15:48:24,873 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:48:24,897 [70] INFO  - | Task 439 | OX: Input frame = 1000 , Processing frame = 999
+2022-10-30 15:48:24,920 [7] INFO  - MONITOR  ResourceStatus: | CPU: 43% | WrkSetMem: 5,952,048 KB | PagedMem: 12,865,268 KB | NonPagedMem: 421 KB | ThrdCnt: 88 | HndlCnt: 1921 
+2022-10-30 15:48:25,959 [46] INFO  - GLOBAL   Publishing processing activity for task: 439
+2022-10-30 15:48:28,497 [70] INFO  - | Task 439 | OX: Input frame = 2000 , Processing frame = 1994
+2022-10-30 15:48:31,867 [70] INFO  - | Task 439 | OX: Input frame = 3000 , Processing frame = 2994
+2022-10-30 15:48:34,571 [70] INFO  - | Task 439 | OX: Input frame = 4000 , Processing frame = 3994
+2022-10-30 15:48:35,845 [44] INFO  - Generating BG image for 2022-10-30 15:25:00.030 to 2022-10-30 15:29:59.330 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:48:37,251 [70] INFO  - | Task 439 | OX: Input frame = 5000 , Processing frame = 4995
+2022-10-30 15:48:38,159 [59] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:48:38,161 [59] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:48:38,169 [59] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:48:38,169 [59] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:48:38,170 [59] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:48:38,170 [59] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:48:38,432 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:31:06 PM.598, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:38,433 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:48:38,433 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:48:38,434 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:31:06 PM.598, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:38,434 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:48:38,434 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:48:38,434 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:48:38,435 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:48:38,437 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:31:06.598
+2022-10-30 15:48:38,438 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:48:40,405 [70] INFO  - | Task 439 | OX: Input frame = 6000 , Processing frame = 5994
+2022-10-30 15:48:44,202 [70] INFO  - | Task 439 | OX: Input frame = 7000 , Processing frame = 6994
+2022-10-30 15:48:46,006 [46] INFO  - GLOBAL   Processing TaskData: Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, progress: 10/30/2022 3:33:22 PM
+2022-10-30 15:48:47,398 [70] INFO  - | Task 439 | OX: Input frame = 8000 , Processing frame = 7995
+2022-10-30 15:48:50,198 [44] INFO  - Generating BG image for 2022-10-30 15:30:00.331 to 2022-10-30 15:34:59.631 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:48:50,213 [70] INFO  - | Task 439 | OX: Input frame = 9000 , Processing frame = 8998
+2022-10-30 15:48:52,811 [51] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:48:52,814 [51] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:48:52,822 [51] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:48:52,822 [51] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:48:52,822 [51] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:48:52,822 [51] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:48:53,068 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:36:06 PM.665, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:53,068 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:48:53,069 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:48:53,070 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:36:06 PM.665, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:48:53,072 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:48:53,072 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:48:53,072 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:48:53,073 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:48:53,075 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:36:06.665
+2022-10-30 15:48:53,076 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:48:53,179 [70] INFO  - | Task 439 | OX: Input frame = 10000 , Processing frame = 9994
+2022-10-30 15:48:54,937 [7] INFO  - MONITOR  ResourceStatus: | CPU: 55% | WrkSetMem: 5,954,652 KB | PagedMem: 12,869,832 KB | NonPagedMem: 425 KB | ThrdCnt: 89 | HndlCnt: 1940 
+2022-10-30 15:48:57,254 [70] INFO  - | Task 439 | OX: Input frame = 11000 , Processing frame = 10994
+2022-10-30 15:49:01,086 [70] INFO  - | Task 439 | OX: Input frame = 12000 , Processing frame = 11995
+2022-10-30 15:49:01,459 [52] WARN  - entire bbox is outside frame. In BriefCam::OX::RealWorldSceneGeometry::GetPixelToMeterScaleAt [D:\GIT\nextgen\OX\RealWorldSceneGeometry.cpp :215]
+2022-10-30 15:49:01,464 [52] WARN  - entire bbox is outside frame. In BriefCam::OX::RealWorldSceneGeometry::GetPixelToMeterScaleAt [D:\GIT\nextgen\OX\RealWorldSceneGeometry.cpp :215]
+2022-10-30 15:49:03,967 [70] INFO  - | Task 439 | OX: Input frame = 13000 , Processing frame = 12994
+2022-10-30 15:49:05,365 [44] INFO  - Generating BG image for 2022-10-30 15:35:00.632 to 2022-10-30 15:39:59.931 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:49:06,860 [70] INFO  - | Task 439 | OX: Input frame = 14000 , Processing frame = 13995
+2022-10-30 15:49:07,786 [51] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:07,788 [51] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:07,795 [51] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:49:07,796 [51] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:49:07,796 [51] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:49:07,796 [51] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:49:08,085 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:41:06 PM.732, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:08,086 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:49:08,087 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:49:08,087 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:41:06 PM.732, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:08,088 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:49:08,088 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:49:08,088 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:49:08,088 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:49:08,091 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:41:06.732
+2022-10-30 15:49:08,092 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:49:10,298 [70] INFO  - | Task 439 | OX: Input frame = 15000 , Processing frame = 14995
+2022-10-30 15:49:14,194 [70] INFO  - | Task 439 | OX: Input frame = 16000 , Processing frame = 15994
+2022-10-30 15:49:16,110 [46] INFO  - GLOBAL   Processing TaskData: Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, progress: 10/30/2022 3:43:22 PM
+2022-10-30 15:49:17,549 [70] INFO  - | Task 439 | OX: Input frame = 17000 , Processing frame = 16999
+2022-10-30 15:49:20,205 [44] INFO  - Generating BG image for 2022-10-30 15:40:00.932 to 2022-10-30 15:45:00.232 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:49:20,218 [70] INFO  - | Task 439 | OX: Input frame = 18000 , Processing frame = 17998
+2022-10-30 15:49:22,614 [60] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:22,616 [60] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:22,623 [60] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:49:22,623 [60] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:49:22,623 [60] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:49:22,624 [60] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:49:22,855 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:46:06 PM.799, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:22,856 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:49:22,858 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:49:22,858 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:46:06 PM.799, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:22,859 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:49:22,860 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:49:22,860 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:49:22,861 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:49:22,863 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:46:06.799
+2022-10-30 15:49:22,864 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:49:22,988 [70] INFO  - | Task 439 | OX: Input frame = 19000 , Processing frame = 18994
+2022-10-30 15:49:24,944 [7] INFO  - MONITOR  ResourceStatus: | CPU: 59% | WrkSetMem: 5,954,892 KB | PagedMem: 12,870,072 KB | NonPagedMem: 426 KB | ThrdCnt: 88 | HndlCnt: 1925 
+2022-10-30 15:49:27,090 [70] INFO  - | Task 439 | OX: Input frame = 20000 , Processing frame = 19994
+2022-10-30 15:49:31,016 [70] INFO  - | Task 439 | OX: Input frame = 21000 , Processing frame = 20994
+2022-10-30 15:49:34,212 [70] INFO  - | Task 439 | OX: Input frame = 22000 , Processing frame = 21994
+2022-10-30 15:49:35,595 [44] INFO  - Generating BG image for 2022-10-30 15:45:01.233 to 2022-10-30 15:50:00.532 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:49:37,034 [70] INFO  - | Task 439 | OX: Input frame = 23000 , Processing frame = 22995
+2022-10-30 15:49:37,965 [61] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:37,968 [61] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:37,977 [61] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:49:37,978 [61] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:49:37,978 [61] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:49:37,978 [61] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:49:38,282 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:51:06 PM.866, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:38,283 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:49:38,284 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:49:38,284 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:51:06 PM.866, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:38,285 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:49:38,285 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:49:38,285 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:49:38,285 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:49:38,288 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:51:06.866
+2022-10-30 15:49:38,289 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:49:40,462 [70] INFO  - | Task 439 | OX: Input frame = 24000 , Processing frame = 23995
+2022-10-30 15:49:44,432 [70] INFO  - | Task 439 | OX: Input frame = 25000 , Processing frame = 24994
+2022-10-30 15:49:46,212 [46] INFO  - GLOBAL   Processing TaskData: Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, progress: 10/30/2022 3:53:19 PM
+2022-10-30 15:49:47,864 [70] INFO  - | Task 439 | OX: Input frame = 26000 , Processing frame = 25997
+2022-10-30 15:49:50,810 [44] INFO  - Generating BG image for 2022-10-30 15:50:01.533 to 2022-10-30 15:55:00.833 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:49:50,825 [70] INFO  - | Task 439 | OX: Input frame = 27000 , Processing frame = 26997
+2022-10-30 15:49:53,448 [53] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:53,450 [53] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:49:53,458 [53] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:49:53,458 [53] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:49:53,458 [53] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:49:53,459 [53] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:49:53,741 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:56:06 PM.933, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:53,742 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:49:53,742 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:49:53,743 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-3:56:06 PM.933, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:49:53,743 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:49:53,743 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:49:53,743 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:49:53,744 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:49:53,746 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 15:56:06.933
+2022-10-30 15:49:53,747 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:49:53,923 [70] INFO  - | Task 439 | OX: Input frame = 28000 , Processing frame = 27994
+2022-10-30 15:49:54,959 [7] INFO  - MONITOR  ResourceStatus: | CPU: 64% | WrkSetMem: 5,956,512 KB | PagedMem: 12,871,272 KB | NonPagedMem: 418 KB | ThrdCnt: 90 | HndlCnt: 1929 
+2022-10-30 15:49:58,245 [70] INFO  - | Task 439 | OX: Input frame = 29000 , Processing frame = 28994
+2022-10-30 15:50:02,312 [70] INFO  - | Task 439 | OX: Input frame = 30000 , Processing frame = 29994
+2022-10-30 15:50:04,787 [61] INFO  - JpegData destroyed, object count: 0 (info log once in 10000)
+2022-10-30 15:50:05,417 [70] INFO  - | Task 439 | OX: Input frame = 31000 , Processing frame = 30995
+2022-10-30 15:50:06,866 [44] INFO  - Generating BG image for 2022-10-30 15:55:01.834 to 2022-10-30 16:00:01.133 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:50:08,445 [70] INFO  - | Task 439 | OX: Input frame = 32000 , Processing frame = 31994
+2022-10-30 15:50:09,814 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:01:07 PM.0, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:09,815 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:50:09,816 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:50:09,816 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:01:07 PM.0, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:09,816 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:50:09,817 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:50:09,817 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:50:09,817 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:50:09,820 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 16:01:07.000
+2022-10-30 15:50:09,821 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:50:12,118 [70] INFO  - | Task 439 | OX: Input frame = 33000 , Processing frame = 32998
+2022-10-30 15:50:14,970 [56] INFO  - BBoxMask created, object count: 1574 (info log once in 10000000)
+2022-10-30 15:50:16,331 [46] INFO  - GLOBAL   Processing TaskData: Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, progress: 10/30/2022 4:02:48 PM
+2022-10-30 15:50:16,381 [70] INFO  - | Task 439 | OX: Input frame = 34000 , Processing frame = 33994
+2022-10-30 15:50:20,060 [70] INFO  - | Task 439 | OX: Input frame = 35000 , Processing frame = 34999
+2022-10-30 15:50:22,960 [44] INFO  - Generating BG image for 2022-10-30 16:00:02.134 to 2022-10-30 16:05:01.434 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:50:22,977 [70] INFO  - | Task 439 | OX: Input frame = 36000 , Processing frame = 35998
+2022-10-30 15:50:24,982 [7] INFO  - MONITOR  ResourceStatus: | CPU: 72% | WrkSetMem: 5,956,284 KB | PagedMem: 12,871,092 KB | NonPagedMem: 422 KB | ThrdCnt: 90 | HndlCnt: 1929 
+2022-10-30 15:50:25,779 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:06:07 PM.67, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:25,780 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:50:25,781 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:50:25,781 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:06:07 PM.67, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:25,782 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:50:25,782 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:50:25,782 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:50:25,782 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:50:25,785 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 16:06:07.067
+2022-10-30 15:50:25,787 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:50:26,037 [70] INFO  - | Task 439 | OX: Input frame = 37000 , Processing frame = 36994
+2022-10-30 15:50:30,057 [70] INFO  - | Task 439 | OX: Input frame = 38000 , Processing frame = 37994
+2022-10-30 15:50:34,177 [70] INFO  - | Task 439 | OX: Input frame = 39000 , Processing frame = 38994
+2022-10-30 15:50:37,083 [70] INFO  - | Task 439 | OX: Input frame = 40000 , Processing frame = 39994
+2022-10-30 15:50:38,405 [44] INFO  - Generating BG image for 2022-10-30 16:05:02.435 to 2022-10-30 16:10:01.735 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:50:39,834 [70] INFO  - | Task 439 | OX: Input frame = 41000 , Processing frame = 40994
+2022-10-30 15:50:41,022 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:11:07 PM.134, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:41,023 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:50:41,024 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:50:41,024 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:11:07 PM.134, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:41,024 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:50:41,025 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:50:41,025 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:50:41,025 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:50:41,027 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 16:11:07.134
+2022-10-30 15:50:41,029 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:50:43,171 [70] INFO  - | Task 439 | OX: Input frame = 42000 , Processing frame = 41998
+2022-10-30 15:50:46,445 [46] INFO  - GLOBAL   Processing TaskData: Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, progress: 10/30/2022 4:12:39 PM
+2022-10-30 15:50:46,998 [70] INFO  - | Task 439 | OX: Input frame = 43000 , Processing frame = 42994
+2022-10-30 15:50:50,397 [70] INFO  - | Task 439 | OX: Input frame = 44000 , Processing frame = 43999
+2022-10-30 15:50:53,176 [44] INFO  - Generating BG image for 2022-10-30 16:10:02.736 to 2022-10-30 16:15:02.035 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:50:53,195 [70] INFO  - | Task 439 | OX: Input frame = 45000 , Processing frame = 44995
+2022-10-30 15:50:54,997 [7] INFO  - MONITOR  ResourceStatus: | CPU: 60% | WrkSetMem: 5,957,380 KB | PagedMem: 12,872,032 KB | NonPagedMem: 422 KB | ThrdCnt: 90 | HndlCnt: 1928 
+2022-10-30 15:50:55,775 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:16:07 PM.201, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:55,776 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:50:55,776 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:50:55,777 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:16:07 PM.201, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:50:55,777 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:50:55,777 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:50:55,777 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:50:55,778 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:50:55,780 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 16:16:07.201
+2022-10-30 15:50:55,781 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:50:56,047 [70] INFO  - | Task 439 | OX: Input frame = 46000 , Processing frame = 45994
+2022-10-30 15:51:00,009 [70] INFO  - | Task 439 | OX: Input frame = 47000 , Processing frame = 46994
+2022-10-30 15:51:03,876 [70] INFO  - | Task 439 | OX: Input frame = 48000 , Processing frame = 47994
+2022-10-30 15:51:06,767 [70] INFO  - | Task 439 | OX: Input frame = 49000 , Processing frame = 48994
+2022-10-30 15:51:08,159 [44] INFO  - Generating BG image for 2022-10-30 16:15:03.036 to 2022-10-30 16:20:02.336 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:51:09,654 [70] INFO  - | Task 439 | OX: Input frame = 50000 , Processing frame = 49995
+2022-10-30 15:51:10,889 [58] INFO  - GLOBAL   VideoFileInfoDecoder init with: Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:21:07 PM.268, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:51:10,890 [58] INFO  - GLOBAL   Finding suitable decoder for id :0cb279a5-f203-4096-929e-975cbb8a71cd
+2022-10-30 15:51:10,890 [58] INFO  - GLOBAL   Initializing decoder with VideoFileInfo:
+2022-10-30 15:51:10,891 [58] INFO  - GLOBAL   Uri: file:///D:/MovieRepository/UAT-Overpass_S1.avi, StartTime: 10/30/2022-4:21:07 PM.268, Duration: 00:05:00.0670000 Size:1280x720 Fps: 29.97 StreamId: 0
+2022-10-30 15:51:10,893 [58] INFO  - FFMpegDecoder::ProcessParameter: 0
+2022-10-30 15:51:10,893 [58] INFO  - FFMpegDecoder::ProcessParameter: 1
+2022-10-30 15:51:10,894 [58] INFO  - FFMpegDecoder::ProcessParameters. HW decoding, GpuID:0, Decoder Surfaces: -1, HwDecoder: 1
+2022-10-30 15:51:10,894 [58] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:51:10,907 [58] INFO  - Init ffmpeg decoder with path: D:\MovieRepository\UAT-Overpass_S1.avi StartTime 2022-10-30 16:21:07.268
+2022-10-30 15:51:10,909 [58] INFO  - GLOBAL   decoder initialized:  BriefCam FFmpeg Decoder
+2022-10-30 15:51:13,040 [70] INFO  - | Task 439 | OX: Input frame = 51000 , Processing frame = 50998
+2022-10-30 15:51:16,538 [46] INFO  - GLOBAL   Processing TaskData: Id: 439, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, progress: 10/30/2022 4:22:42 PM
+2022-10-30 15:51:17,062 [70] INFO  - | Task 439 | OX: Input frame = 52000 , Processing frame = 51994
+2022-10-30 15:51:20,465 [70] INFO  - | Task 439 | OX: Input frame = 53000 , Processing frame = 52999
+2022-10-30 15:51:23,280 [44] INFO  - Generating BG image for 2022-10-30 16:20:03.337 to 2022-10-30 16:25:02.636 : Trigger = Periodic, Time span = 299 sec / 300 frames
+2022-10-30 15:51:23,295 [70] INFO  - | Task 439 | OX: Input frame = 54000 , Processing frame = 53994
+2022-10-30 15:51:25,014 [7] INFO  - MONITOR  ResourceStatus: | CPU: 61% | WrkSetMem: 5,956,064 KB | PagedMem: 12,870,732 KB | NonPagedMem: 423 KB | ThrdCnt: 93 | HndlCnt: 1946 
+2022-10-30 15:51:26,000 [58] INFO  - DecoderBuffer thread ended.
+2022-10-30 15:51:26,000 [58] INFO  - Stopping thread the current number of running threads is 4, ThreadName: EngineDecoder thread , Thread ID:33048
+2022-10-30 15:51:26,000 [70] INFO  - | Task 439 | Reached last frame. Closing Task. (EndOfArchive)
+2022-10-30 15:51:26,001 [70] INFO  - | Task 439 | Closing OX task sequence: 612, abort: 0
+2022-10-30 15:51:26,001 [70] INFO  - | Task 439 | Input ended at frame 54954
+2022-10-30 15:51:26,013 [44] INFO  - Generating BG image for 2022-10-30 16:25:03.637 to 2022-10-30 16:26:06.700 : Trigger = Sequence End, Time span = 63 sec / 64 frames
+2022-10-30 15:51:26,025 [64] INFO  - | Task 439 | Flush all tracklets, frame: 54954
+2022-10-30 15:51:26,025 [44] INFO  - Stopping thread the current number of running threads is 3, ThreadName: Segmentation , Thread ID:33680
+2022-10-30 15:51:26,025 [63] INFO  - Stopping thread the current number of running threads is 2, ThreadName: Detection , Thread ID:54584
+2022-10-30 15:51:26,029 [64] INFO  - Stopping thread the current number of running threads is 1, ThreadName: Tracking , Thread ID:26716
+2022-10-30 15:51:26,343 [70] INFO  - CROP STATISTICS, Total: 0 skipped: 0 aggregated : 0 full Frame: 0 union: 0
+2022-10-30 15:51:26,344 [70] INFO  - | Task 439 | Destroying thread Tracking
+2022-10-30 15:51:26,346 [70] INFO  - | Task 439 | Destroying thread Detection
+2022-10-30 15:51:26,347 [70] INFO  - | Task 439 | Destroying thread Segmentation
+2022-10-30 15:51:26,353 [70] INFO  - GLOBAL   Storing geometry data, cameraId: 47, resolution: 1280x720
+2022-10-30 15:51:26,355 [70] INFO  - GLOBAL   Db operation completed successfully, cameraId: 47, resolution: 1280x720
+2022-10-30 15:51:26,368 [70] INFO  - | Task 439 | Write Geoloc data, Camera: 47
+2022-10-30 15:51:26,368 [70] INFO  - | Task 439 | Write Geoloc data, Width: 1280
+2022-10-30 15:51:26,368 [70] INFO  - | Task 439 | Write Geoloc data, Height: 720
+2022-10-30 15:51:26,368 [70] INFO  - | Task 439 | Write Geoloc data, Version: 1
+2022-10-30 15:51:26,369 [70] INFO  - | Task 439 | end task processing thread. status: 2
+2022-10-30 15:51:26,369 [70] INFO  - Stopping thread the current number of running threads is 0, ThreadName: OX::Task thread , Thread ID:54312
+2022-10-30 15:51:26,571 [46] INFO  - GLOBAL   Finished processing task: 439 ReturnCode: Success 

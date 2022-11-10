@@ -1,0 +1,433 @@
+﻿2022-10-30 11:58:50,645 [26] INFO  - GLOBAL   Initializing cameras
+2022-10-30 11:58:50,705 [26] INFO  - GLOBAL   Getting cameras...)
+2022-10-30 11:58:51,662 [26] INFO  - GLOBAL   No concurrent cameras limit set
+2022-10-30 11:58:51,833 [26] INFO  - GLOBAL   Got cameras, result: 10 enabled, 0 disabled
+2022-10-30 11:58:51,843 [26] INFO  - GLOBAL   10 cameras loaded from DB.
+2022-10-30 11:58:51,843 [26] INFO  - GLOBAL   (InternalID: 48, DisplayName: _agents_small, ExternalID: D:\MovieRepository\_agents_small.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/30/2022 11:58:50 AM)
+2022-10-30 11:58:51,844 [26] INFO  - GLOBAL   (InternalID: 1, DisplayName: Abbey-Road_S1, ExternalID: D:\MovieRepository\test\Abbey-Road_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 12:37:50 PM)
+2022-10-30 11:58:51,845 [26] INFO  - GLOBAL   (InternalID: 2, DisplayName: Albert-Alarm_S1, ExternalID: D:\MovieRepository\test\Albert-Alarm_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,845 [26] INFO  - GLOBAL   (InternalID: 3, DisplayName: AOT-Basketball-Parking_S1, ExternalID: D:\MovieRepository\test\AOT-Basketball-Parking_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,846 [26] INFO  - GLOBAL   (InternalID: 46, DisplayName: China-Gate_S1, ExternalID: D:\MovieRepository\China-Gate_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/27/2022 4:27:48 PM)
+2022-10-30 11:58:51,846 [26] INFO  - GLOBAL   (InternalID: 6, DisplayName: China-Sidewalk-03_S1_03, ExternalID: D:\MovieRepository\h264\China-Sidewalk-03_S1_03.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository\h264, Address: D:\MovieRepository\h264, InternalId: 2, ExternalId: D:\MovieRepository\h264 , 6/6/2022 4:29:12 PM)
+2022-10-30 11:58:51,848 [26] INFO  - GLOBAL   (InternalID: 4, DisplayName: Lausanne-Place_S1, ExternalID: D:\MovieRepository\test\Lausanne-Place_S1.mp4, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,848 [26] INFO  - GLOBAL   (InternalID: 5, DisplayName: London-Abbey-Road-B507_S1, ExternalID: D:\MovieRepository\test\London-Abbey-Road-B507_S1.ts, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: svr, Address: D:\MovieRepository\test, InternalId: 1, ExternalId: D:\MovieRepository\test , 5/31/2022 1:06:46 PM)
+2022-10-30 11:58:51,849 [26] INFO  - GLOBAL   (InternalID: 9, DisplayName: Normal_S1, ExternalID: D:\MovieRepository\Normal_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 7/26/2022 8:04:51 PM)
+2022-10-30 11:58:51,849 [26] INFO  - GLOBAL   (InternalID: 47, DisplayName: UAT-Overpass_S1, ExternalID: D:\MovieRepository\UAT-Overpass_S1.avi, IsEnabled: True, HasBISource: False , DirectoryInformation: Name: D:\MovieRepository, Address: D:\MovieRepository, InternalId: 3, ExternalId: D:\MovieRepository , 10/27/2022 4:27:48 PM)
+2022-10-30 11:59:11,076 [32] INFO  - GLOBAL   Received queue item '123' from channel '4', messages left in queue: '12'
+2022-10-30 11:59:11,077 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1332, Status: Queue, CameraId: 48, StartTime: 10/30/2022 10:55:00 AM, EndTime: 10/30/2022 11:00:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:11,081 [20] INFO  - FETCHING Start fetch task Id: 1332, Status: Taken, CameraId: 48, StartTime: 10/30/2022 10:55:00 AM, EndTime: 10/30/2022 11:00:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:11,082 [32] INFO  - GLOBAL   Received queue item '124' from channel '4', messages left in queue: '11'
+2022-10-30 11:59:11,082 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1333, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:00:00 AM, EndTime: 10/30/2022 11:05:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:11,105 [47] INFO  - FETCHING Start fetch task Id: 1333, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:00:00 AM, EndTime: 10/30/2022 11:05:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:11,121 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:11,121 [73] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:11,586 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:11,587 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 10:02:10 AM for export in 10/30/2022 10:55:00 AM
+2022-10-30 11:59:11,586 [73] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:11,590 [73] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 10:02:10 AM for export in 10/30/2022 11:00:00 AM
+2022-10-30 11:59:12,646 [47] INFO  - GLOBAL   Fetch task 1333 ended, status: Success
+2022-10-30 11:59:12,646 [20] INFO  - GLOBAL   Fetch task 1332 ended, status: Success
+2022-10-30 11:59:12,653 [20] INFO  - FETCHING  Fetch Task 1332 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:12,653 [47] INFO  - FETCHING  Fetch Task 1333 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:13,145 [32] INFO  - GLOBAL   Received queue item '125' from channel '4', messages left in queue: '10'
+2022-10-30 11:59:13,146 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1334, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:05:00 AM, EndTime: 10/30/2022 11:10:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:13,148 [8] INFO  - FETCHING Start fetch task Id: 1334, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:05:00 AM, EndTime: 10/30/2022 11:10:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:13,149 [32] INFO  - GLOBAL   Received queue item '126' from channel '4', messages left in queue: '9'
+2022-10-30 11:59:13,149 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1335, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:10:00 AM, EndTime: 10/30/2022 11:15:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:13,149 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:13,151 [9] INFO  - FETCHING Start fetch task Id: 1335, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:10:00 AM, EndTime: 10/30/2022 11:15:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:13,152 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:13,176 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:13,177 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:05:00 AM
+2022-10-30 11:59:13,178 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:13,178 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:10:00 AM
+2022-10-30 11:59:14,231 [9] INFO  - GLOBAL   Fetch task 1335 ended, status: Success
+2022-10-30 11:59:14,231 [8] INFO  - GLOBAL   Fetch task 1334 ended, status: Success
+2022-10-30 11:59:14,235 [9] INFO  - FETCHING  Fetch Task 1335 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:14,235 [8] INFO  - FETCHING  Fetch Task 1334 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:14,673 [32] INFO  - GLOBAL   Received queue item '127' from channel '4', messages left in queue: '8'
+2022-10-30 11:59:14,674 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1336, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:15:00 AM, EndTime: 10/30/2022 11:20:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:14,677 [7] INFO  - FETCHING Start fetch task Id: 1336, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:15:00 AM, EndTime: 10/30/2022 11:20:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:14,678 [32] INFO  - GLOBAL   Received queue item '128' from channel '4', messages left in queue: '7'
+2022-10-30 11:59:14,678 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1337, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:20:00 AM, EndTime: 10/30/2022 11:25:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:14,679 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:14,704 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:14,705 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:15:00 AM
+2022-10-30 11:59:14,715 [60] INFO  - FETCHING Start fetch task Id: 1337, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:20:00 AM, EndTime: 10/30/2022 11:25:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:14,716 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:14,742 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:14,742 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:20:00 AM
+2022-10-30 11:59:15,764 [7] INFO  - GLOBAL   Fetch task 1336 ended, status: Success
+2022-10-30 11:59:15,766 [7] INFO  - FETCHING  Fetch Task 1336 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:15,809 [60] INFO  - GLOBAL   Fetch task 1337 ended, status: Success
+2022-10-30 11:59:15,812 [60] INFO  - FETCHING  Fetch Task 1337 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:16,232 [32] INFO  - GLOBAL   Received queue item '129' from channel '4', messages left in queue: '6'
+2022-10-30 11:59:16,233 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1338, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:25:00 AM, EndTime: 10/30/2022 11:30:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:16,238 [61] INFO  - FETCHING Start fetch task Id: 1338, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:25:00 AM, EndTime: 10/30/2022 11:30:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:16,239 [32] INFO  - GLOBAL   Received queue item '130' from channel '4', messages left in queue: '5'
+2022-10-30 11:59:16,239 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1339, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:30:00 AM, EndTime: 10/30/2022 11:35:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:16,239 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:16,241 [65] INFO  - FETCHING Start fetch task Id: 1339, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:30:00 AM, EndTime: 10/30/2022 11:35:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:16,242 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:16,266 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:16,266 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:25:00 AM
+2022-10-30 11:59:16,268 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:16,268 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:30:00 AM
+2022-10-30 11:59:17,318 [61] INFO  - GLOBAL   Fetch task 1338 ended, status: Success
+2022-10-30 11:59:17,320 [61] INFO  - FETCHING  Fetch Task 1338 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:17,333 [65] INFO  - GLOBAL   Fetch task 1339 ended, status: Success
+2022-10-30 11:59:17,335 [65] INFO  - FETCHING  Fetch Task 1339 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:17,772 [32] INFO  - GLOBAL   Received queue item '131' from channel '4', messages left in queue: '4'
+2022-10-30 11:59:17,773 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1340, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:35:00 AM, EndTime: 10/30/2022 11:40:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:17,775 [50] INFO  - FETCHING Start fetch task Id: 1340, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:35:00 AM, EndTime: 10/30/2022 11:40:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:17,776 [32] INFO  - GLOBAL   Received queue item '132' from channel '4', messages left in queue: '3'
+2022-10-30 11:59:17,776 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1341, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:40:00 AM, EndTime: 10/30/2022 11:45:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:17,777 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:17,790 [70] INFO  - FETCHING Start fetch task Id: 1341, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:40:00 AM, EndTime: 10/30/2022 11:45:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:17,791 [73] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:17,801 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:17,802 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:35:00 AM
+2022-10-30 11:59:17,819 [73] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:17,820 [73] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:40:00 AM
+2022-10-30 11:59:18,859 [50] INFO  - GLOBAL   Fetch task 1340 ended, status: Success
+2022-10-30 11:59:18,862 [50] INFO  - FETCHING  Fetch Task 1340 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:18,874 [70] INFO  - GLOBAL   Fetch task 1341 ended, status: Success
+2022-10-30 11:59:18,876 [70] INFO  - FETCHING  Fetch Task 1341 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:19,328 [32] INFO  - GLOBAL   Received queue item '133' from channel '4', messages left in queue: '2'
+2022-10-30 11:59:19,329 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1342, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:45:00 AM, EndTime: 10/30/2022 11:50:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:19,331 [48] INFO  - FETCHING Start fetch task Id: 1342, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:45:00 AM, EndTime: 10/30/2022 11:50:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:19,333 [32] INFO  - GLOBAL   Received queue item '134' from channel '4', messages left in queue: '1'
+2022-10-30 11:59:19,334 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1343, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:50:00 AM, EndTime: 10/30/2022 11:55:00 AM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:19,335 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:19,364 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:19,364 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:45:00 AM
+2022-10-30 11:59:19,374 [42] INFO  - FETCHING Start fetch task Id: 1343, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:50:00 AM, EndTime: 10/30/2022 11:55:00 AM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:19,375 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:19,400 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:19,401 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:50:00 AM
+2022-10-30 11:59:20,422 [48] INFO  - GLOBAL   Fetch task 1342 ended, status: Success
+2022-10-30 11:59:20,425 [48] INFO  - FETCHING  Fetch Task 1342 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:20,452 [42] INFO  - GLOBAL   Fetch task 1343 ended, status: Success
+2022-10-30 11:59:20,493 [42] INFO  - FETCHING  Fetch Task 1343 exec time: 00:00:00, camera : _agents_small
+2022-10-30 11:59:20,908 [32] INFO  - GLOBAL   Received queue item '135' from channel '4', messages left in queue: '0'
+2022-10-30 11:59:20,909 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1344, Status: Queue, CameraId: 48, StartTime: 10/30/2022 11:55:00 AM, EndTime: 10/30/2022 12:00:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 11:59:20,935 [55] INFO  - FETCHING Start fetch task Id: 1344, Status: Taken, CameraId: 48, StartTime: 10/30/2022 11:55:00 AM, EndTime: 10/30/2022 12:00:00 PM, ProcessingMode: Full, camera : _agents_small
+2022-10-30 11:59:20,940 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\_agents_small.avi
+2022-10-30 11:59:20,977 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\_agents_small.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 11:59:20,978 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 11:02:10 AM for export in 10/30/2022 11:55:00 AM
+2022-10-30 11:59:22,044 [55] INFO  - GLOBAL   Fetch task 1344 ended, status: Success
+2022-10-30 11:59:22,050 [55] INFO  - FETCHING  Fetch Task 1344 exec time: 00:00:00, camera : _agents_small
+2022-10-30 13:38:48,688 [73] INFO  - GLOBAL   Settings modified, invalidating cache
+2022-10-30 15:01:20,024 [54] INFO  - GLOBAL   Settings modified, invalidating cache
+2022-10-30 15:34:35,642 [32] INFO  - GLOBAL   Received queue item '136' from channel '4', messages left in queue: '38'
+2022-10-30 15:34:35,643 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1345, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:35,701 [48] INFO  - FETCHING Start fetch task Id: 1345, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:35,701 [32] INFO  - GLOBAL   Received queue item '137' from channel '4', messages left in queue: '37'
+2022-10-30 15:34:35,701 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1346, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:35,705 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:35,712 [41] INFO  - FETCHING Start fetch task Id: 1346, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:35,713 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:35,891 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:35,891 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:27:41 PM for export in 10/30/2022 3:30:00 PM
+2022-10-30 15:34:35,891 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:35,892 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:24:23 PM for export in 10/30/2022 3:25:00 PM
+2022-10-30 15:34:36,950 [41] INFO  - GLOBAL   Fetch task 1346 ended, status: Success
+2022-10-30 15:34:36,950 [48] INFO  - GLOBAL   Fetch task 1345 ended, status: Success
+2022-10-30 15:34:36,956 [41] INFO  - FETCHING  Fetch Task 1346 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:36,956 [48] INFO  - FETCHING  Fetch Task 1345 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:37,239 [32] INFO  - GLOBAL   Received queue item '138' from channel '4', messages left in queue: '36'
+2022-10-30 15:34:37,240 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1347, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:37,243 [70] INFO  - FETCHING Start fetch task Id: 1347, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:37,244 [32] INFO  - GLOBAL   Received queue item '139' from channel '4', messages left in queue: '35'
+2022-10-30 15:34:37,244 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1348, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:37,245 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:37,246 [55] INFO  - FETCHING Start fetch task Id: 1348, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:37,247 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:37,330 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:37,331 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:37:38 PM for export in 10/30/2022 3:40:00 PM
+2022-10-30 15:34:37,333 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:37,334 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:34:19 PM for export in 10/30/2022 3:35:00 PM
+2022-10-30 15:34:38,386 [55] INFO  - GLOBAL   Fetch task 1348 ended, status: Success
+2022-10-30 15:34:38,389 [55] INFO  - FETCHING  Fetch Task 1348 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:38,401 [70] INFO  - GLOBAL   Fetch task 1347 ended, status: Success
+2022-10-30 15:34:38,404 [70] INFO  - FETCHING  Fetch Task 1347 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:38,781 [32] INFO  - GLOBAL   Received queue item '140' from channel '4', messages left in queue: '34'
+2022-10-30 15:34:38,782 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1349, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:38,787 [65] INFO  - FETCHING Start fetch task Id: 1349, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:38,788 [32] INFO  - GLOBAL   Received queue item '141' from channel '4', messages left in queue: '33'
+2022-10-30 15:34:38,789 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1350, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:38,789 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:38,793 [64] INFO  - FETCHING Start fetch task Id: 1350, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:38,794 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:38,890 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:38,890 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:38,892 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:44:15 PM for export in 10/30/2022 3:45:00 PM
+2022-10-30 15:34:38,891 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:47:34 PM for export in 10/30/2022 3:50:00 PM
+2022-10-30 15:34:39,968 [65] INFO  - GLOBAL   Fetch task 1349 ended, status: Success
+2022-10-30 15:34:39,968 [64] INFO  - GLOBAL   Fetch task 1350 ended, status: Success
+2022-10-30 15:34:39,971 [65] INFO  - FETCHING  Fetch Task 1349 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:39,973 [64] INFO  - FETCHING  Fetch Task 1350 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:40,334 [32] INFO  - GLOBAL   Received queue item '142' from channel '4', messages left in queue: '32'
+2022-10-30 15:34:40,334 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1351, Status: Queue, CameraId: 46, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:40,337 [69] INFO  - FETCHING Start fetch task Id: 1351, Status: Taken, CameraId: 46, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:40,338 [32] INFO  - GLOBAL   Received queue item '143' from channel '4', messages left in queue: '31'
+2022-10-30 15:34:40,338 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1352, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:40,338 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:40,340 [58] INFO  - FETCHING Start fetch task Id: 1352, Status: Taken, CameraId: 46, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:40,341 [73] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:40,431 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:40,432 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:54:12 PM for export in 10/30/2022 3:55:00 PM
+2022-10-30 15:34:40,434 [73] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:40,434 [73] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:57:31 PM for export in 10/30/2022 4:00:00 PM
+2022-10-30 15:34:41,490 [69] INFO  - GLOBAL   Fetch task 1351 ended, status: Success
+2022-10-30 15:34:41,490 [58] INFO  - GLOBAL   Fetch task 1352 ended, status: Success
+2022-10-30 15:34:41,494 [69] INFO  - FETCHING  Fetch Task 1351 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:41,494 [58] INFO  - FETCHING  Fetch Task 1352 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:41,869 [32] INFO  - GLOBAL   Received queue item '144' from channel '4', messages left in queue: '30'
+2022-10-30 15:34:41,870 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1353, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:41,873 [44] INFO  - FETCHING Start fetch task Id: 1353, Status: Taken, CameraId: 46, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:41,873 [32] INFO  - GLOBAL   Received queue item '145' from channel '4', messages left in queue: '29'
+2022-10-30 15:34:41,874 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1354, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:41,875 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:41,877 [24] INFO  - FETCHING Start fetch task Id: 1354, Status: Taken, CameraId: 46, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:41,878 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:41,972 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:41,973 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:04:08 PM for export in 10/30/2022 4:05:00 PM
+2022-10-30 15:34:41,980 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:41,981 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:07:27 PM for export in 10/30/2022 4:10:00 PM
+2022-10-30 15:34:43,022 [44] INFO  - GLOBAL   Fetch task 1353 ended, status: Success
+2022-10-30 15:34:43,025 [44] INFO  - FETCHING  Fetch Task 1353 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:43,037 [24] INFO  - GLOBAL   Fetch task 1354 ended, status: Success
+2022-10-30 15:34:43,039 [24] INFO  - FETCHING  Fetch Task 1354 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:43,398 [32] INFO  - GLOBAL   Received queue item '146' from channel '4', messages left in queue: '28'
+2022-10-30 15:34:43,399 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1355, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:43,402 [67] INFO  - FETCHING Start fetch task Id: 1355, Status: Taken, CameraId: 46, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:43,403 [32] INFO  - GLOBAL   Received queue item '147' from channel '4', messages left in queue: '27'
+2022-10-30 15:34:43,403 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1356, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:43,404 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:43,406 [57] INFO  - FETCHING Start fetch task Id: 1356, Status: Taken, CameraId: 46, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:43,407 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:43,503 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:43,504 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:14:05 PM for export in 10/30/2022 4:15:00 PM
+2022-10-30 15:34:43,510 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:43,510 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:17:23 PM for export in 10/30/2022 4:20:00 PM
+2022-10-30 15:34:44,552 [67] INFO  - GLOBAL   Fetch task 1355 ended, status: Success
+2022-10-30 15:34:44,557 [67] INFO  - FETCHING  Fetch Task 1355 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:44,567 [57] INFO  - GLOBAL   Fetch task 1356 ended, status: Success
+2022-10-30 15:34:44,570 [57] INFO  - FETCHING  Fetch Task 1356 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:44,929 [32] INFO  - GLOBAL   Received queue item '148' from channel '4', messages left in queue: '26'
+2022-10-30 15:34:44,930 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1357, Status: Queue, CameraId: 46, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:44,932 [89] INFO  - FETCHING Start fetch task Id: 1357, Status: Taken, CameraId: 46, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, camera : China-Gate_S1
+2022-10-30 15:34:44,945 [32] INFO  - GLOBAL   Received queue item '149' from channel '4', messages left in queue: '25'
+2022-10-30 15:34:44,945 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1358, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:44,946 [73] INFO  - GetVideoFormatContext for: D:\MovieRepository\China-Gate_S1.mp4
+2022-10-30 15:34:44,976 [23] INFO  - FETCHING Start fetch task Id: 1358, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:44,978 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:45,036 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:45,037 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:25:00 PM for export in 10/30/2022 3:25:00 PM
+2022-10-30 15:34:45,049 [73] INFO  - GLOBAL   The video file: D:\MovieRepository\China-Gate_S1.mp4 is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:45,050 [73] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:24:01 PM for export in 10/30/2022 4:25:00 PM
+2022-10-30 15:34:46,098 [89] INFO  - GLOBAL   Fetch task 1357 ended, status: Success
+2022-10-30 15:34:46,098 [23] INFO  - GLOBAL   Fetch task 1358 ended, status: Success
+2022-10-30 15:34:46,102 [89] INFO  - FETCHING  Fetch Task 1357 exec time: 00:00:00, camera : China-Gate_S1
+2022-10-30 15:34:46,102 [23] INFO  - FETCHING  Fetch Task 1358 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:46,506 [32] INFO  - GLOBAL   Received queue item '150' from channel '4', messages left in queue: '24'
+2022-10-30 15:34:46,507 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1359, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:46,510 [20] INFO  - FETCHING Start fetch task Id: 1359, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:46,510 [32] INFO  - GLOBAL   Received queue item '151' from channel '4', messages left in queue: '23'
+2022-10-30 15:34:46,510 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1360, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:46,511 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:46,513 [47] INFO  - FETCHING Start fetch task Id: 1360, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:46,515 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:46,535 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:46,536 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:35:00 PM for export in 10/30/2022 3:35:00 PM
+2022-10-30 15:34:46,539 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:46,539 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:30:00 PM for export in 10/30/2022 3:30:00 PM
+2022-10-30 15:34:47,584 [47] INFO  - GLOBAL   Fetch task 1360 ended, status: Success
+2022-10-30 15:34:47,587 [47] INFO  - FETCHING  Fetch Task 1360 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:47,600 [20] INFO  - GLOBAL   Fetch task 1359 ended, status: Success
+2022-10-30 15:34:47,605 [20] INFO  - FETCHING  Fetch Task 1359 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:48,040 [32] INFO  - GLOBAL   Received queue item '152' from channel '4', messages left in queue: '22'
+2022-10-30 15:34:48,041 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1361, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:48,043 [8] INFO  - FETCHING Start fetch task Id: 1361, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:48,045 [32] INFO  - GLOBAL   Received queue item '153' from channel '4', messages left in queue: '21'
+2022-10-30 15:34:48,046 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1362, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:48,047 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:48,052 [9] INFO  - FETCHING Start fetch task Id: 1362, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:48,053 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:48,071 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:48,073 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:40:00 PM for export in 10/30/2022 3:40:00 PM
+2022-10-30 15:34:48,073 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:48,074 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:45:00 PM for export in 10/30/2022 3:45:00 PM
+2022-10-30 15:34:49,131 [9] INFO  - GLOBAL   Fetch task 1362 ended, status: Success
+2022-10-30 15:34:49,131 [8] INFO  - GLOBAL   Fetch task 1361 ended, status: Success
+2022-10-30 15:34:49,135 [9] INFO  - FETCHING  Fetch Task 1362 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:49,135 [8] INFO  - FETCHING  Fetch Task 1361 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:49,581 [32] INFO  - GLOBAL   Received queue item '154' from channel '4', messages left in queue: '20'
+2022-10-30 15:34:49,582 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1363, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:49,584 [7] INFO  - FETCHING Start fetch task Id: 1363, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:49,585 [32] INFO  - GLOBAL   Received queue item '155' from channel '4', messages left in queue: '19'
+2022-10-30 15:34:49,585 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1364, Status: Queue, CameraId: 9, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:49,585 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:49,587 [60] INFO  - FETCHING Start fetch task Id: 1364, Status: Taken, CameraId: 9, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:49,588 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:49,603 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:49,603 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:50:00 PM for export in 10/30/2022 3:50:00 PM
+2022-10-30 15:34:49,604 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:49,604 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:55:00 PM for export in 10/30/2022 3:55:00 PM
+2022-10-30 15:34:50,664 [60] INFO  - GLOBAL   Fetch task 1364 ended, status: Success
+2022-10-30 15:34:50,665 [7] INFO  - GLOBAL   Fetch task 1363 ended, status: Success
+2022-10-30 15:34:50,668 [60] INFO  - FETCHING  Fetch Task 1364 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:50,668 [7] INFO  - FETCHING  Fetch Task 1363 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:51,117 [32] INFO  - GLOBAL   Received queue item '156' from channel '4', messages left in queue: '18'
+2022-10-30 15:34:51,117 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1365, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:51,120 [61] INFO  - FETCHING Start fetch task Id: 1365, Status: Taken, CameraId: 9, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:51,121 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:51,122 [32] INFO  - GLOBAL   Received queue item '157' from channel '4', messages left in queue: '17'
+2022-10-30 15:34:51,122 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1366, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:51,126 [55] INFO  - FETCHING Start fetch task Id: 1366, Status: Taken, CameraId: 9, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:51,128 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:51,154 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:51,162 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:51,164 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:00:00 PM for export in 10/30/2022 4:00:00 PM
+2022-10-30 15:34:51,165 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:05:00 PM for export in 10/30/2022 4:05:00 PM
+2022-10-30 15:34:52,224 [61] INFO  - GLOBAL   Fetch task 1365 ended, status: Success
+2022-10-30 15:34:52,224 [55] INFO  - GLOBAL   Fetch task 1366 ended, status: Success
+2022-10-30 15:34:52,227 [61] INFO  - FETCHING  Fetch Task 1365 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:52,229 [55] INFO  - FETCHING  Fetch Task 1366 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:52,661 [32] INFO  - GLOBAL   Received queue item '158' from channel '4', messages left in queue: '16'
+2022-10-30 15:34:52,662 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1367, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:52,666 [70] INFO  - FETCHING Start fetch task Id: 1367, Status: Taken, CameraId: 9, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:52,668 [54] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:52,668 [32] INFO  - GLOBAL   Received queue item '159' from channel '4', messages left in queue: '15'
+2022-10-30 15:34:52,668 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1368, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:52,671 [41] INFO  - FETCHING Start fetch task Id: 1368, Status: Taken, CameraId: 9, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:52,673 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:52,699 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:52,699 [54] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:52,701 [54] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:10:00 PM for export in 10/30/2022 4:10:00 PM
+2022-10-30 15:34:52,700 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:15:00 PM for export in 10/30/2022 4:15:00 PM
+2022-10-30 15:34:53,755 [41] INFO  - GLOBAL   Fetch task 1368 ended, status: Success
+2022-10-30 15:34:53,758 [41] INFO  - FETCHING  Fetch Task 1368 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:53,770 [70] INFO  - GLOBAL   Fetch task 1367 ended, status: Success
+2022-10-30 15:34:53,774 [70] INFO  - FETCHING  Fetch Task 1367 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:54,208 [32] INFO  - GLOBAL   Received queue item '160' from channel '4', messages left in queue: '14'
+2022-10-30 15:34:54,209 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1369, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:54,215 [48] INFO  - FETCHING Start fetch task Id: 1369, Status: Taken, CameraId: 9, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:54,222 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:54,237 [32] INFO  - GLOBAL   Received queue item '161' from channel '4', messages left in queue: '13'
+2022-10-30 15:34:54,238 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1370, Status: Queue, CameraId: 9, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:54,241 [49] INFO  - FETCHING Start fetch task Id: 1370, Status: Taken, CameraId: 9, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, camera : Normal_S1
+2022-10-30 15:34:54,243 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\Normal_S1.avi
+2022-10-30 15:34:54,251 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:54,260 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:20:00 PM for export in 10/30/2022 4:20:00 PM
+2022-10-30 15:34:54,281 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\Normal_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:54,294 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:25:00 PM for export in 10/30/2022 4:25:00 PM
+2022-10-30 15:34:55,315 [48] INFO  - GLOBAL   Fetch task 1369 ended, status: Success
+2022-10-30 15:34:55,318 [48] INFO  - FETCHING  Fetch Task 1369 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:55,405 [49] INFO  - GLOBAL   Fetch task 1370 ended, status: Success
+2022-10-30 15:34:55,417 [49] INFO  - FETCHING  Fetch Task 1370 exec time: 00:00:00, camera : Normal_S1
+2022-10-30 15:34:55,774 [32] INFO  - GLOBAL   Received queue item '162' from channel '4', messages left in queue: '12'
+2022-10-30 15:34:55,775 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1371, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:55,805 [39] INFO  - FETCHING Start fetch task Id: 1371, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:25:00 PM, EndTime: 10/30/2022 3:30:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:55,807 [32] INFO  - GLOBAL   Received queue item '163' from channel '4', messages left in queue: '11'
+2022-10-30 15:34:55,809 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1372, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:55,810 [26] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:55,814 [72] INFO  - FETCHING Start fetch task Id: 1372, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:30:00 PM, EndTime: 10/30/2022 3:35:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:55,816 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:55,896 [26] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:55,896 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:55,897 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:26:06 PM for export in 10/30/2022 3:30:00 PM
+2022-10-30 15:34:55,897 [26] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:21:06 PM for export in 10/30/2022 3:25:00 PM
+2022-10-30 15:34:56,951 [39] INFO  - GLOBAL   Fetch task 1371 ended, status: Success
+2022-10-30 15:34:56,951 [72] INFO  - GLOBAL   Fetch task 1372 ended, status: Success
+2022-10-30 15:34:56,954 [39] INFO  - FETCHING  Fetch Task 1371 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:34:56,956 [72] INFO  - FETCHING  Fetch Task 1372 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:34:57,347 [32] INFO  - GLOBAL   Received queue item '164' from channel '4', messages left in queue: '10'
+2022-10-30 15:34:57,348 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1373, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:57,351 [87] INFO  - FETCHING Start fetch task Id: 1373, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:35:00 PM, EndTime: 10/30/2022 3:40:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:57,351 [32] INFO  - GLOBAL   Received queue item '165' from channel '4', messages left in queue: '9'
+2022-10-30 15:34:57,352 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1374, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:57,355 [73] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:57,356 [81] INFO  - FETCHING Start fetch task Id: 1374, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:40:00 PM, EndTime: 10/30/2022 3:45:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:57,360 [73] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:57,364 [73] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:31:06 PM for export in 10/30/2022 3:35:00 PM
+2022-10-30 15:34:57,361 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:57,369 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:57,370 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:36:06 PM for export in 10/30/2022 3:40:00 PM
+2022-10-30 15:34:58,421 [81] INFO  - GLOBAL   Fetch task 1374 ended, status: Success
+2022-10-30 15:34:58,425 [81] INFO  - FETCHING  Fetch Task 1374 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:34:58,436 [87] INFO  - GLOBAL   Fetch task 1373 ended, status: Success
+2022-10-30 15:34:58,439 [87] INFO  - FETCHING  Fetch Task 1373 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:34:58,887 [32] INFO  - GLOBAL   Received queue item '166' from channel '4', messages left in queue: '8'
+2022-10-30 15:34:58,887 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1375, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:58,890 [88] INFO  - FETCHING Start fetch task Id: 1375, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:45:00 PM, EndTime: 10/30/2022 3:50:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:58,891 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:58,892 [32] INFO  - GLOBAL   Received queue item '167' from channel '4', messages left in queue: '7'
+2022-10-30 15:34:58,892 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1376, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:34:58,895 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:58,896 [66] INFO  - FETCHING Start fetch task Id: 1376, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:50:00 PM, EndTime: 10/30/2022 3:55:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:34:58,896 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:41:06 PM for export in 10/30/2022 3:45:00 PM
+2022-10-30 15:34:58,898 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:34:58,902 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:34:58,903 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:46:06 PM for export in 10/30/2022 3:50:00 PM
+2022-10-30 15:34:59,951 [88] INFO  - GLOBAL   Fetch task 1375 ended, status: Success
+2022-10-30 15:34:59,951 [66] INFO  - GLOBAL   Fetch task 1376 ended, status: Success
+2022-10-30 15:34:59,955 [88] INFO  - FETCHING  Fetch Task 1375 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:34:59,955 [66] INFO  - FETCHING  Fetch Task 1376 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:00,449 [32] INFO  - GLOBAL   Received queue item '168' from channel '4', messages left in queue: '6'
+2022-10-30 15:35:00,460 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1377, Status: Queue, CameraId: 47, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:00,489 [78] INFO  - FETCHING Start fetch task Id: 1377, Status: Taken, CameraId: 47, StartTime: 10/30/2022 3:55:00 PM, EndTime: 10/30/2022 4:00:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:00,506 [32] INFO  - GLOBAL   Received queue item '169' from channel '4', messages left in queue: '5'
+2022-10-30 15:35:00,506 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:00,506 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1378, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:00,509 [75] INFO  - FETCHING Start fetch task Id: 1378, Status: Taken, CameraId: 47, StartTime: 10/30/2022 4:00:00 PM, EndTime: 10/30/2022 4:05:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:00,510 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:00,511 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:51:06 PM for export in 10/30/2022 3:55:00 PM
+2022-10-30 15:35:00,511 [73] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:00,518 [73] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:00,518 [73] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 3:56:06 PM for export in 10/30/2022 4:00:00 PM
+2022-10-30 15:35:01,593 [78] INFO  - GLOBAL   Fetch task 1377 ended, status: Success
+2022-10-30 15:35:01,593 [75] INFO  - GLOBAL   Fetch task 1378 ended, status: Success
+2022-10-30 15:35:01,598 [78] INFO  - FETCHING  Fetch Task 1377 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:01,599 [75] INFO  - FETCHING  Fetch Task 1378 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:02,037 [32] INFO  - GLOBAL   Received queue item '170' from channel '4', messages left in queue: '4'
+2022-10-30 15:35:02,038 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1379, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:02,041 [34] INFO  - FETCHING Start fetch task Id: 1379, Status: Taken, CameraId: 47, StartTime: 10/30/2022 4:05:00 PM, EndTime: 10/30/2022 4:10:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:02,042 [32] INFO  - GLOBAL   Received queue item '171' from channel '4', messages left in queue: '3'
+2022-10-30 15:35:02,042 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1380, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:02,043 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:02,044 [51] INFO  - FETCHING Start fetch task Id: 1380, Status: Taken, CameraId: 47, StartTime: 10/30/2022 4:10:00 PM, EndTime: 10/30/2022 4:15:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:02,045 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:02,046 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:02,047 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:01:07 PM for export in 10/30/2022 4:05:00 PM
+2022-10-30 15:35:02,049 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:02,049 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:06:07 PM for export in 10/30/2022 4:10:00 PM
+2022-10-30 15:35:03,101 [34] INFO  - GLOBAL   Fetch task 1379 ended, status: Success
+2022-10-30 15:35:03,101 [51] INFO  - GLOBAL   Fetch task 1380 ended, status: Success
+2022-10-30 15:35:03,106 [34] INFO  - FETCHING  Fetch Task 1379 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:03,106 [51] INFO  - FETCHING  Fetch Task 1380 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:03,575 [32] INFO  - GLOBAL   Received queue item '172' from channel '4', messages left in queue: '2'
+2022-10-30 15:35:03,575 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1381, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:03,579 [37] INFO  - FETCHING Start fetch task Id: 1381, Status: Taken, CameraId: 47, StartTime: 10/30/2022 4:15:00 PM, EndTime: 10/30/2022 4:20:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:03,581 [32] INFO  - GLOBAL   Received queue item '173' from channel '4', messages left in queue: '1'
+2022-10-30 15:35:03,583 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1382, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:03,585 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:03,587 [25] INFO  - FETCHING Start fetch task Id: 1382, Status: Taken, CameraId: 47, StartTime: 10/30/2022 4:20:00 PM, EndTime: 10/30/2022 4:25:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:03,590 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:03,590 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:11:07 PM for export in 10/30/2022 4:15:00 PM
+2022-10-30 15:35:03,590 [59] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:03,597 [59] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:03,599 [59] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:16:07 PM for export in 10/30/2022 4:20:00 PM
+2022-10-30 15:35:04,648 [37] INFO  - GLOBAL   Fetch task 1381 ended, status: Success
+2022-10-30 15:35:04,648 [25] INFO  - GLOBAL   Fetch task 1382 ended, status: Success
+2022-10-30 15:35:04,651 [37] INFO  - FETCHING  Fetch Task 1381 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:04,651 [25] INFO  - FETCHING  Fetch Task 1382 exec time: 00:00:00, camera : UAT-Overpass_S1
+2022-10-30 15:35:05,114 [32] INFO  - GLOBAL   Received queue item '174' from channel '4', messages left in queue: '0'
+2022-10-30 15:35:05,115 [32] INFO  - GLOBAL   ThreadID: '32'. Got fetching task 'Id: 1383, Status: Queue, CameraId: 47, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full' from 'fetchingTasksMedium'
+2022-10-30 15:35:05,117 [71] INFO  - FETCHING Start fetch task Id: 1383, Status: Taken, CameraId: 47, StartTime: 10/30/2022 4:25:00 PM, EndTime: 10/30/2022 4:30:00 PM, ProcessingMode: Full, camera : UAT-Overpass_S1
+2022-10-30 15:35:05,119 [21] INFO  - GetVideoFormatContext for: D:\MovieRepository\UAT-Overpass_S1.avi
+2022-10-30 15:35:05,122 [21] INFO  - GLOBAL   The video file: D:\MovieRepository\UAT-Overpass_S1.avi is successfully loaded by BriefCam FFMpeg Decoder
+2022-10-30 15:35:05,123 [21] INFO  - GLOBAL   Exporting movie with start time: 10/30/2022 4:21:07 PM for export in 10/30/2022 4:25:00 PM
+2022-10-30 15:35:06,177 [71] INFO  - GLOBAL   Fetch task 1383 ended, status: Success
+2022-10-30 15:35:06,180 [71] INFO  - FETCHING  Fetch Task 1383 exec time: 00:00:00, camera : UAT-Overpass_S1
